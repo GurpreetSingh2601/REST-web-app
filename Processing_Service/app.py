@@ -15,10 +15,8 @@ import logging
 import logging.config
 from apscheduler.schedulers.background import BackgroundScheduler
 
-conn = sqlite3.connect('data.sqlite')
-c = conn.cursor()
-def create_database():
-
+def create_database(path):
+    conn = sqlite3.connect(path)
     c = conn.cursor()
     c.execute('''
         CREATE TABLE stats
@@ -32,17 +30,12 @@ def create_database():
     conn.commit()
     conn.close()
 
-print('Check if STUDENT table exists in the database:')
-listOfTables = c.execute(
-  """SELECT name FROM sqlite_master WHERE type='table'
-  AND name='stats'; """).fetchall()
- 
-if listOfTables == []:
-    create_database()
-    print("Table was not found")
-    print("table created")
+path = '/data/data.sqlite'
+isExist = os.path.exists(path)
+if isExist == True:
+    print("Exists")
 else:
-    print('Table found!')
+    create_database(path)
 
 if "TARGET_ENV" in os.environ and os.environ["TARGET_ENV"] == "test":
     print("In Test Environment")
