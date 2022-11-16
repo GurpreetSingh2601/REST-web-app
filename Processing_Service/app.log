@@ -1,0 +1,1591 @@
+2022-10-25 09:49:23,381 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:49:27,518 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:49:27,519 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:49:28,385 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:49:32,525 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:49:32,525 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:49:33,384 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:49:37,488 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:49:37,488 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:49:38,383 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:49:42,530 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:49:42,531 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:49:43,385 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:49:47,508 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:49:47,509 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:49:48,388 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:49:52,506 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:49:52,507 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:49:53,387 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:49:57,495 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:49:57,495 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:50:15,144 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:50:19,304 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:50:19,304 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:50:19,309 - basicLogger - INFO - Request has been started
+2022-10-25 09:50:19,309 - basicLogger - INFO - The request has been completed
+2022-10-25 09:50:20,157 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:50:20,666 - basicLogger - INFO - Request has been started
+2022-10-25 09:50:20,666 - basicLogger - INFO - The request has been completed
+2022-10-25 09:50:22,117 - basicLogger - INFO - Request has been started
+2022-10-25 09:50:22,118 - basicLogger - INFO - The request has been completed
+2022-10-25 09:50:23,041 - basicLogger - INFO - Request has been started
+2022-10-25 09:50:23,042 - basicLogger - INFO - The request has been completed
+2022-10-25 09:50:24,269 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:50:24,270 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:50:25,156 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:50:29,285 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:50:29,286 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:50:30,161 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:50:34,297 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:50:34,298 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:50:35,156 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:50:35,626 - basicLogger - INFO - Request has been started
+2022-10-25 09:50:35,627 - basicLogger - INFO - The request has been completed
+2022-10-25 09:50:39,265 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:50:39,265 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:50:40,158 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:50:44,281 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:50:44,282 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:50:45,150 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:50:49,279 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:50:49,280 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:50:50,154 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:50:54,312 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:50:54,312 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:50:55,158 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:50:59,284 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:50:59,285 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:51:00,159 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:51:04,289 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:51:04,290 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:51:05,150 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:51:09,286 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:51:09,287 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:51:10,161 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:51:14,284 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:51:14,284 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:51:15,147 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:51:19,292 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:51:19,292 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:51:20,154 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:51:24,275 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:51:24,275 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:51:25,148 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:51:29,301 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:51:29,301 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:51:30,156 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:51:34,292 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:51:34,293 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:51:35,152 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:51:39,287 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:51:39,287 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:51:40,148 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:51:44,284 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:51:44,285 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:51:45,156 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:51:49,293 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:51:49,294 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:51:50,158 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:51:54,314 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:51:54,314 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:51:55,158 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:51:59,320 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:51:59,321 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:52:00,150 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:52:04,293 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:52:04,294 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:52:05,152 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:52:09,259 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:52:09,259 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:52:10,155 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:52:14,288 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:52:14,289 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:52:15,148 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:52:19,294 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:52:19,295 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:52:20,151 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:52:24,300 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:52:24,301 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:52:25,158 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:52:29,287 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:52:29,287 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:52:30,160 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:52:34,300 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:52:34,300 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:52:35,147 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:52:39,248 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:52:39,249 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:52:40,155 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:52:44,298 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:52:44,300 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:52:45,161 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:52:49,304 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:52:49,304 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:52:50,160 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:52:54,304 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:52:54,305 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:52:55,146 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:52:59,300 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:52:59,300 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:53:00,146 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:53:04,284 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:53:04,285 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:53:05,157 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:53:09,281 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:53:09,282 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:53:10,155 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:53:14,265 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:53:14,266 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:53:15,153 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:53:19,281 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:53:19,281 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:53:20,153 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:53:24,271 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:53:24,271 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:53:25,160 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:53:29,307 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:53:29,308 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:53:30,148 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:53:34,303 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:53:34,303 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:53:35,156 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:53:39,287 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:53:39,287 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:53:40,158 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:53:44,282 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:53:44,282 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:53:45,148 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:53:49,292 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:53:49,293 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:53:50,151 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:53:54,284 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:53:54,285 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:53:55,150 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:53:59,274 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:53:59,275 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:54:00,155 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:54:04,290 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:54:04,290 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:54:05,157 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:54:09,294 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:54:09,295 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:54:10,153 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:54:14,278 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:54:14,278 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:54:15,149 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:54:19,273 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:54:19,274 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:54:20,146 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:54:24,309 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:54:24,309 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:54:25,153 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:54:29,307 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:54:29,307 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:54:30,161 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:54:34,329 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:54:34,329 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:54:35,158 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:54:39,290 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:54:39,291 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:54:40,159 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:54:44,314 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:54:44,315 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:54:45,159 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:54:49,304 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:54:49,305 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:54:50,150 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:54:54,278 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:54:54,279 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:54:55,150 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:54:59,255 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:54:59,255 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:55:00,147 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:55:04,279 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:55:04,280 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:55:05,153 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:55:09,285 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:55:09,285 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:55:10,152 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:55:14,297 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:55:14,298 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:55:15,161 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:55:19,305 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:55:19,306 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:55:20,149 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:55:24,276 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:55:24,276 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:55:25,151 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:55:29,284 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:55:29,284 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:55:30,148 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:55:34,233 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:55:34,234 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:55:35,156 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:55:39,294 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:55:39,294 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:55:40,160 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:55:44,265 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:55:44,265 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:55:45,154 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:55:49,266 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:55:49,267 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:55:50,155 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:55:54,270 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:55:54,270 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:55:55,152 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:55:59,284 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:55:59,285 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:56:00,156 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:56:04,276 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:56:04,276 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:56:05,159 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:56:09,259 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:56:09,260 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:56:10,149 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:56:14,292 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:56:14,292 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:56:15,150 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:56:19,279 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:56:19,279 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:56:20,156 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:56:24,303 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:56:24,303 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:56:25,160 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:56:29,277 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:56:29,277 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:56:30,150 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:56:34,275 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:56:34,275 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:56:35,147 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:56:39,261 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:56:39,262 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:56:40,153 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:56:44,266 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:56:44,267 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:56:45,155 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:56:49,293 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:56:49,294 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:56:50,146 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:56:54,300 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:56:54,300 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:56:55,147 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:56:59,273 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:56:59,274 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:57:00,158 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:57:04,256 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:57:04,257 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:57:05,147 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:57:09,274 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:57:09,275 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:57:10,161 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:57:14,275 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:57:14,276 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:57:15,149 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:57:19,272 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:57:19,272 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:57:20,155 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:57:24,295 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:57:24,296 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:57:25,154 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:57:29,264 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:57:29,264 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:57:30,148 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:57:34,290 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:57:34,290 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:57:35,149 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:57:39,290 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:57:39,290 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:57:40,149 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:57:44,277 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:57:44,277 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:57:45,151 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:57:49,246 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:57:49,246 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:57:50,154 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:57:54,292 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:57:54,293 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:57:55,157 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:57:59,298 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:57:59,299 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:58:00,156 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:58:04,312 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:58:04,313 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:58:05,154 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:58:09,279 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:58:09,280 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:58:10,146 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:58:14,263 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:58:14,263 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:58:15,156 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:58:19,314 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:58:19,315 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:58:20,160 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:58:24,280 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:58:24,281 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:58:25,154 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:58:29,303 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:58:29,304 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:58:30,148 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:58:34,271 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:58:34,272 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:58:35,146 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:58:39,278 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:58:39,279 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:58:40,158 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:58:44,304 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:58:44,305 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:58:45,150 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:58:49,267 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:58:49,268 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:58:50,157 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:58:54,271 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:58:54,271 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:58:55,148 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:58:59,299 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:58:59,300 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:59:00,151 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:59:04,254 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:59:04,255 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:59:05,159 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:59:09,290 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:59:09,291 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:59:10,149 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:59:14,311 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:59:14,311 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:59:15,150 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:59:19,277 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:59:19,278 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:59:20,155 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:59:24,287 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:59:24,288 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:59:25,148 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:59:29,302 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:59:29,303 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:59:30,157 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:59:34,271 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:59:34,272 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:59:35,160 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:59:39,292 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:59:39,293 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:59:40,150 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:59:44,281 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:59:44,282 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:59:45,151 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:59:49,278 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:59:49,278 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:59:50,152 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:59:54,300 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 09:59:54,301 - basicLogger - INFO - Period processing has ended.
+2022-10-25 09:59:55,147 - basicLogger - INFO - Period processing has been started
+2022-10-25 09:59:59,290 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 09:59:59,290 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:00:00,148 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:00:04,267 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 10:00:04,268 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:00:05,159 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:00:09,307 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 10:00:09,308 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:00:10,147 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:00:14,284 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 10:00:14,284 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:00:15,159 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:00:19,285 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 10:00:19,286 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:00:20,158 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:00:24,286 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 10:00:24,287 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:00:25,161 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:00:29,312 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 10:00:29,312 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:00:30,155 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:00:34,303 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 10:00:34,304 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:00:35,151 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:00:39,292 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 10:00:39,293 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:00:40,159 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:00:44,281 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 10:00:44,282 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:00:45,151 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:00:49,268 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 10:00:49,269 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:00:50,149 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:00:54,294 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 10:00:54,294 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:00:55,151 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:00:59,281 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 10:00:59,281 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:01:00,158 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:01:04,308 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 10:01:04,308 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:01:05,153 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:01:09,284 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 10:01:09,285 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:01:10,150 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:01:14,280 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 10:01:14,281 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:01:15,155 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:01:19,303 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 4
+2022-10-25 10:01:19,304 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:01:20,149 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:01:24,292 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 4
+2022-10-25 10:01:24,292 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:01:25,149 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:01:29,275 - basicLogger - DEBUG - new event with a trace id of 34934891661
+2022-10-25 10:01:29,276 - basicLogger - DEBUG - new event with a trace id of 95755152287
+2022-10-25 10:01:29,276 - basicLogger - DEBUG - new event with a trace id of 58526589212
+2022-10-25 10:01:29,277 - basicLogger - DEBUG - new event with a trace id of 6308546875
+2022-10-25 10:01:29,277 - basicLogger - DEBUG - new event with a trace id of 3356917686
+2022-10-25 10:01:29,278 - basicLogger - DEBUG - new event with a trace id of 70233064382
+2022-10-25 10:01:29,278 - basicLogger - DEBUG - new event with a trace id of 76755323815
+2022-10-25 10:01:29,278 - basicLogger - DEBUG - new event with a trace id of 87185883330
+2022-10-25 10:01:29,279 - basicLogger - DEBUG - new event with a trace id of 58119169350
+2022-10-25 10:01:29,279 - basicLogger - DEBUG - new event with a trace id of 64996175242
+2022-10-25 10:01:29,279 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 8
+2022-10-25 10:01:29,280 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:01:30,151 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:01:34,275 - basicLogger - DEBUG - new event with a trace id of 80894422923
+2022-10-25 10:01:34,275 - basicLogger - DEBUG - new event with a trace id of 95034684767
+2022-10-25 10:01:34,276 - basicLogger - DEBUG - new event with a trace id of 98638569365
+2022-10-25 10:01:34,276 - basicLogger - DEBUG - new event with a trace id of 51865378650
+2022-10-25 10:01:34,276 - basicLogger - DEBUG - new event with a trace id of 18957390521
+2022-10-25 10:01:34,276 - basicLogger - DEBUG - new event with a trace id of 35381591045
+2022-10-25 10:01:34,276 - basicLogger - DEBUG - new event with a trace id of 59577408438
+2022-10-25 10:01:34,277 - basicLogger - DEBUG - new event with a trace id of 17324995950
+2022-10-25 10:01:34,277 - basicLogger - DEBUG - new event with a trace id of 76765211877
+2022-10-25 10:01:34,277 - basicLogger - DEBUG - new event with a trace id of 80520750062
+2022-10-25 10:01:34,277 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 12
+2022-10-25 10:01:34,277 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:01:35,150 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:01:39,275 - basicLogger - DEBUG - new event with a trace id of 75073144680
+2022-10-25 10:01:39,275 - basicLogger - DEBUG - new event with a trace id of 19658137652
+2022-10-25 10:01:39,276 - basicLogger - DEBUG - new event with a trace id of 44998196818
+2022-10-25 10:01:39,276 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 16
+2022-10-25 10:01:39,276 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:01:40,161 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:01:44,302 - basicLogger - DEBUG - new event with a trace id of 19245877208
+2022-10-25 10:01:44,302 - basicLogger - DEBUG - new event with a trace id of 21069774357
+2022-10-25 10:01:44,302 - basicLogger - DEBUG - new event with a trace id of 80784354365
+2022-10-25 10:01:44,303 - basicLogger - DEBUG - new event with a trace id of 57980520837
+2022-10-25 10:01:44,303 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 20
+2022-10-25 10:01:44,303 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:01:45,148 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:01:49,286 - basicLogger - DEBUG - new event with a trace id of 14939505662
+2022-10-25 10:01:49,286 - basicLogger - DEBUG - new event with a trace id of 28572583847
+2022-10-25 10:01:49,287 - basicLogger - DEBUG - new event with a trace id of 10670080042
+2022-10-25 10:01:49,287 - basicLogger - DEBUG - new event with a trace id of 78448191207
+2022-10-25 10:01:49,287 - basicLogger - DEBUG - new event with a trace id of 90559160742
+2022-10-25 10:01:49,288 - basicLogger - DEBUG - new event with a trace id of 23220276449
+2022-10-25 10:01:49,288 - basicLogger - DEBUG - new event with a trace id of 48487624146
+2022-10-25 10:01:49,289 - basicLogger - DEBUG - new event with a trace id of 50619056394
+2022-10-25 10:01:49,289 - basicLogger - DEBUG - new event with a trace id of 71808270327
+2022-10-25 10:01:49,289 - basicLogger - DEBUG - new event with a trace id of 31116989773
+2022-10-25 10:01:49,290 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 995, num_damaged_parts = 24
+2022-10-25 10:01:49,290 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:01:50,148 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:01:54,290 - basicLogger - DEBUG - new event with a trace id of 98629317401
+2022-10-25 10:01:54,291 - basicLogger - DEBUG - new event with a trace id of 34402106416
+2022-10-25 10:01:54,291 - basicLogger - DEBUG - new event with a trace id of 53453610914
+2022-10-25 10:01:54,291 - basicLogger - DEBUG - new event with a trace id of 57689377284
+2022-10-25 10:01:54,291 - basicLogger - DEBUG - new event with a trace id of 14457237592
+2022-10-25 10:01:54,292 - basicLogger - DEBUG - new event with a trace id of 84276629786
+2022-10-25 10:01:54,292 - basicLogger - DEBUG - new event with a trace id of 49615390219
+2022-10-25 10:01:54,292 - basicLogger - DEBUG - new event with a trace id of 15081545023
+2022-10-25 10:01:54,293 - basicLogger - DEBUG - new event with a trace id of 17101467135
+2022-10-25 10:01:54,293 - basicLogger - DEBUG - new event with a trace id of 32759494458
+2022-10-25 10:01:54,293 - basicLogger - DEBUG - Updated statistics values : max_part_number = 995, max_part_price = 998, num_damaged_parts = 28
+2022-10-25 10:01:54,293 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:01:55,163 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:01:59,306 - basicLogger - DEBUG - new event with a trace id of 38634301127
+2022-10-25 10:01:59,306 - basicLogger - DEBUG - new event with a trace id of 32006093555
+2022-10-25 10:01:59,306 - basicLogger - DEBUG - new event with a trace id of 4467322088
+2022-10-25 10:01:59,307 - basicLogger - DEBUG - new event with a trace id of 46336183065
+2022-10-25 10:01:59,307 - basicLogger - DEBUG - new event with a trace id of 97811584403
+2022-10-25 10:01:59,308 - basicLogger - DEBUG - new event with a trace id of 6380930379
+2022-10-25 10:01:59,308 - basicLogger - DEBUG - new event with a trace id of 86066288155
+2022-10-25 10:01:59,309 - basicLogger - DEBUG - new event with a trace id of 95013830215
+2022-10-25 10:01:59,309 - basicLogger - DEBUG - new event with a trace id of 74101876239
+2022-10-25 10:01:59,309 - basicLogger - DEBUG - new event with a trace id of 10940707743
+2022-10-25 10:01:59,310 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 32
+2022-10-25 10:01:59,310 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:02:00,152 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:02:04,273 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 36
+2022-10-25 10:02:04,273 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:02:05,150 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:02:09,278 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 10:02:09,278 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:02:10,151 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:02:14,288 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 10:02:14,289 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:02:15,160 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:02:19,300 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 10:02:19,301 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:02:20,148 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:02:21,369 - basicLogger - INFO - Request has been started
+2022-10-25 10:02:21,370 - basicLogger - INFO - The request has been completed
+2022-10-25 10:02:24,263 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 10:02:24,263 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:02:25,153 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:02:29,289 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 10:02:29,289 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:02:30,148 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:02:34,266 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 10:02:34,267 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:02:35,152 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:02:39,290 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 10:02:39,290 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:02:40,150 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:02:44,276 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 10:02:44,277 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:02:45,153 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:02:49,255 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 10:02:49,256 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:37:47,091 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:37:52,089 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:37:57,084 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:38:02,097 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:38:06,245 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 10:38:06,246 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:38:07,086 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:38:11,195 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 10:38:11,196 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:38:12,085 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:38:16,194 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 10:38:16,194 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:38:17,096 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:38:21,192 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 10:38:21,193 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:38:22,087 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:38:26,196 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 10:38:26,197 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:38:27,081 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:38:31,189 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 10:38:31,190 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:38:32,083 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:38:36,170 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 10:38:36,171 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:38:37,096 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:38:41,228 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 10:38:41,229 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:38:42,088 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:38:46,226 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 10:38:46,227 - basicLogger - INFO - Period processing has ended.
+2022-10-25 10:38:47,090 - basicLogger - INFO - Period processing has been started
+2022-10-25 10:38:51,253 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 10:38:51,254 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:00:03,969 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:00:08,982 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:00:13,981 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:00:18,969 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:00:23,968 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:00:28,969 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:00:33,968 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:00:38,484 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:00:38,485 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:00:38,977 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:00:43,570 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:00:43,571 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:00:43,979 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:00:48,533 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:00:48,534 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:00:48,978 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:00:53,651 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:00:53,651 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:00:53,977 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:00:58,722 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:00:58,722 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:00:58,975 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:01:03,524 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:01:03,526 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:01:03,979 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:01:08,518 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:01:08,519 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:01:08,973 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:01:13,631 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:01:13,632 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:01:13,971 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:01:18,655 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:01:18,656 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:01:18,979 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:01:23,509 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:01:23,510 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:01:23,977 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:01:28,659 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:01:28,660 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:01:28,981 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:01:33,616 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:01:33,616 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:01:33,972 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:01:38,865 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:01:38,867 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:01:38,980 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:01:43,515 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:01:43,516 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:01:43,977 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:01:48,543 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:01:48,544 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:01:48,971 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:01:53,837 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:01:53,838 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:01:53,971 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:01:58,604 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:01:58,606 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:01:58,983 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:02:03,520 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:02:03,521 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:02:03,979 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:02:08,595 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:02:08,596 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:02:08,967 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:02:13,697 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:02:13,699 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:02:13,970 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:02:18,688 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:02:18,689 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:02:18,978 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:02:23,490 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:02:23,491 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:02:23,970 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:02:28,638 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:02:28,639 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:02:28,973 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:02:33,618 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:02:33,619 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:02:33,979 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:02:38,546 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:02:38,547 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:02:38,971 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:02:43,513 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:02:43,514 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:02:43,967 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:02:48,595 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:02:48,596 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:02:48,978 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:02:53,692 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:02:53,693 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:02:53,979 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:02:58,507 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:02:58,508 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:02:58,980 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:03:03,514 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:03:03,515 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:03:03,976 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:03:08,662 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:03:08,663 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:03:08,968 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:03:13,659 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:03:13,660 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:03:13,979 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:03:18,541 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:03:18,542 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:03:18,972 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:03:23,750 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:03:23,751 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:03:23,976 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:03:28,654 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:03:28,656 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:03:28,983 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:03:33,616 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:03:33,617 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:03:33,970 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:03:38,493 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 40
+2022-10-25 11:03:38,494 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:03:38,972 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:03:43,660 - basicLogger - DEBUG - new event with a trace id of 80420997192
+2022-10-25 11:03:43,661 - basicLogger - DEBUG - new event with a trace id of 63801568976
+2022-10-25 11:03:43,662 - basicLogger - DEBUG - new event with a trace id of 31718285394
+2022-10-25 11:03:43,663 - basicLogger - DEBUG - new event with a trace id of 336632975
+2022-10-25 11:03:43,664 - basicLogger - DEBUG - new event with a trace id of 93321844476
+2022-10-25 11:03:43,665 - basicLogger - DEBUG - new event with a trace id of 49152100150
+2022-10-25 11:03:43,665 - basicLogger - DEBUG - new event with a trace id of 18202876060
+2022-10-25 11:03:43,666 - basicLogger - DEBUG - new event with a trace id of 23544461809
+2022-10-25 11:03:43,666 - basicLogger - DEBUG - new event with a trace id of 99556119341
+2022-10-25 11:03:43,667 - basicLogger - DEBUG - new event with a trace id of 11100468428
+2022-10-25 11:03:43,668 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 44
+2022-10-25 11:03:43,669 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:03:43,967 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:03:48,709 - basicLogger - DEBUG - new event with a trace id of 66922347967
+2022-10-25 11:03:48,710 - basicLogger - DEBUG - new event with a trace id of 86869695927
+2022-10-25 11:03:48,711 - basicLogger - DEBUG - new event with a trace id of 7428021066
+2022-10-25 11:03:48,711 - basicLogger - DEBUG - new event with a trace id of 86893193847
+2022-10-25 11:03:48,712 - basicLogger - DEBUG - new event with a trace id of 58157310008
+2022-10-25 11:03:48,713 - basicLogger - DEBUG - new event with a trace id of 83120183189
+2022-10-25 11:03:48,714 - basicLogger - DEBUG - new event with a trace id of 88949470411
+2022-10-25 11:03:48,714 - basicLogger - DEBUG - new event with a trace id of 10625392051
+2022-10-25 11:03:48,715 - basicLogger - DEBUG - new event with a trace id of 19505676719
+2022-10-25 11:03:48,716 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 48
+2022-10-25 11:03:48,716 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:03:48,974 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:03:53,545 - basicLogger - DEBUG - new event with a trace id of 40321121558
+2022-10-25 11:03:53,546 - basicLogger - DEBUG - new event with a trace id of 82587170898
+2022-10-25 11:03:53,549 - basicLogger - DEBUG - new event with a trace id of 89541152366
+2022-10-25 11:03:53,553 - basicLogger - DEBUG - new event with a trace id of 6930429459
+2022-10-25 11:03:53,554 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 52
+2022-10-25 11:03:53,555 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:03:53,973 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:03:58,633 - basicLogger - DEBUG - new event with a trace id of 37060092499
+2022-10-25 11:03:58,634 - basicLogger - DEBUG - new event with a trace id of 64613011095
+2022-10-25 11:03:58,634 - basicLogger - DEBUG - new event with a trace id of 94883863962
+2022-10-25 11:03:58,635 - basicLogger - DEBUG - new event with a trace id of 24086918890
+2022-10-25 11:03:58,635 - basicLogger - DEBUG - new event with a trace id of 61242740879
+2022-10-25 11:03:58,636 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 56
+2022-10-25 11:03:58,637 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:03:58,978 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:04:03,552 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 60
+2022-10-25 11:04:03,553 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:04:03,967 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:04:08,655 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 64
+2022-10-25 11:04:08,656 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:04:08,964 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:04:13,494 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 68
+2022-10-25 11:04:13,495 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:04:13,970 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:04:18,576 - basicLogger - DEBUG - new event with a trace id of 90688303971
+2022-10-25 11:04:18,577 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 72
+2022-10-25 11:04:18,578 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:04:18,980 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:04:23,574 - basicLogger - DEBUG - new event with a trace id of 60344704186
+2022-10-25 11:04:23,576 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 76
+2022-10-25 11:04:23,576 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:04:23,969 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:04:28,501 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:04:28,517 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:04:28,971 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:04:33,509 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:04:33,509 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:04:33,967 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:04:38,569 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:04:38,570 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:04:38,969 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:04:43,635 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:04:43,636 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:04:43,968 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:04:48,494 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:04:48,495 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:04:48,965 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:04:53,508 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:04:53,509 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:04:53,975 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:04:58,757 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:04:58,758 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:04:58,970 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:05:03,743 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:05:03,743 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:05:03,975 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:05:08,489 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:05:08,490 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:05:08,971 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:05:13,555 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:05:13,556 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:05:13,975 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:05:18,686 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:05:18,687 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:05:18,976 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:05:23,489 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:05:23,489 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:05:23,978 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:05:28,557 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:05:28,558 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:05:28,981 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:05:33,640 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:05:33,641 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:05:33,978 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:05:38,738 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:05:38,740 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:05:38,977 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:05:43,540 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:05:43,541 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:05:43,982 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:05:48,609 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:05:48,610 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:05:48,975 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:05:53,637 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:05:53,637 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:05:53,968 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:05:58,500 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:05:58,501 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:05:58,981 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:06:03,644 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:06:03,645 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:06:03,968 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:06:08,514 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:06:08,515 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:06:08,971 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:06:13,720 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:06:13,721 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:06:13,970 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:06:18,535 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:06:18,535 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:06:18,969 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:06:23,622 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:06:23,622 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:06:23,967 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:06:28,671 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:06:28,672 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:06:28,970 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:06:33,510 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:06:33,511 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:06:33,979 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:06:38,524 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:06:38,525 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:06:38,968 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:06:43,973 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:06:48,982 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:06:53,980 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:06:58,973 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:07:03,978 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:07:08,981 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:07:13,971 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:07:18,970 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:07:23,978 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:07:28,970 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:09:19,618 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:09:24,251 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:09:24,252 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:09:24,620 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:09:29,239 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:09:29,240 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:09:29,610 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:09:34,270 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:09:34,271 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:09:34,610 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:09:39,139 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:09:39,140 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:09:39,608 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:09:44,440 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 80
+2022-10-25 11:09:44,440 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:09:44,611 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:09:49,656 - basicLogger - DEBUG - new event with a trace id of 47921069997
+2022-10-25 11:09:49,657 - basicLogger - DEBUG - new event with a trace id of 22648617278
+2022-10-25 11:09:49,658 - basicLogger - DEBUG - new event with a trace id of 75169036373
+2022-10-25 11:09:49,658 - basicLogger - DEBUG - new event with a trace id of 34861129185
+2022-10-25 11:09:49,658 - basicLogger - DEBUG - new event with a trace id of 60549191379
+2022-10-25 11:09:49,659 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 84
+2022-10-25 11:09:49,660 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:09:54,618 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:09:59,237 - basicLogger - DEBUG - new event with a trace id of 36754980245
+2022-10-25 11:09:59,237 - basicLogger - DEBUG - new event with a trace id of 32836525507
+2022-10-25 11:09:59,237 - basicLogger - DEBUG - new event with a trace id of 53848074162
+2022-10-25 11:09:59,238 - basicLogger - DEBUG - new event with a trace id of 48379526498
+2022-10-25 11:09:59,239 - basicLogger - DEBUG - new event with a trace id of 78771764094
+2022-10-25 11:09:59,239 - basicLogger - DEBUG - new event with a trace id of 63646495253
+2022-10-25 11:09:59,239 - basicLogger - DEBUG - new event with a trace id of 421304053
+2022-10-25 11:09:59,240 - basicLogger - DEBUG - new event with a trace id of 31816151336
+2022-10-25 11:09:59,240 - basicLogger - DEBUG - new event with a trace id of 39223092278
+2022-10-25 11:09:59,241 - basicLogger - DEBUG - new event with a trace id of 51022271104
+2022-10-25 11:09:59,241 - basicLogger - DEBUG - new event with a trace id of 90437833885
+2022-10-25 11:09:59,242 - basicLogger - DEBUG - new event with a trace id of 55910796786
+2022-10-25 11:09:59,243 - basicLogger - DEBUG - new event with a trace id of 45238316575
+2022-10-25 11:09:59,243 - basicLogger - DEBUG - new event with a trace id of 1167835513
+2022-10-25 11:09:59,244 - basicLogger - DEBUG - new event with a trace id of 72826206869
+2022-10-25 11:09:59,244 - basicLogger - DEBUG - new event with a trace id of 86991304396
+2022-10-25 11:09:59,244 - basicLogger - DEBUG - new event with a trace id of 79560180471
+2022-10-25 11:09:59,245 - basicLogger - DEBUG - new event with a trace id of 19068451693
+2022-10-25 11:09:59,245 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 88
+2022-10-25 11:09:59,246 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:09:59,605 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:10:04,340 - basicLogger - DEBUG - new event with a trace id of 96662398775
+2022-10-25 11:10:04,341 - basicLogger - DEBUG - new event with a trace id of 57622933043
+2022-10-25 11:10:04,342 - basicLogger - DEBUG - new event with a trace id of 58064359110
+2022-10-25 11:10:04,342 - basicLogger - DEBUG - new event with a trace id of 75152823186
+2022-10-25 11:10:04,343 - basicLogger - DEBUG - new event with a trace id of 95972280488
+2022-10-25 11:10:04,343 - basicLogger - DEBUG - new event with a trace id of 24831678400
+2022-10-25 11:10:04,344 - basicLogger - DEBUG - new event with a trace id of 42189952997
+2022-10-25 11:10:04,344 - basicLogger - DEBUG - new event with a trace id of 5310994751
+2022-10-25 11:10:04,345 - basicLogger - DEBUG - new event with a trace id of 72769452037
+2022-10-25 11:10:04,345 - basicLogger - DEBUG - new event with a trace id of 69606784117
+2022-10-25 11:10:04,346 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 92
+2022-10-25 11:10:04,346 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:10:04,606 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:10:09,314 - basicLogger - DEBUG - new event with a trace id of 10999300357
+2022-10-25 11:10:09,316 - basicLogger - DEBUG - new event with a trace id of 63149787459
+2022-10-25 11:10:09,316 - basicLogger - DEBUG - new event with a trace id of 36140592539
+2022-10-25 11:10:09,317 - basicLogger - DEBUG - new event with a trace id of 95071201417
+2022-10-25 11:10:09,317 - basicLogger - DEBUG - new event with a trace id of 77928743432
+2022-10-25 11:10:09,317 - basicLogger - DEBUG - new event with a trace id of 78112679739
+2022-10-25 11:10:09,318 - basicLogger - DEBUG - new event with a trace id of 9245125688
+2022-10-25 11:10:09,318 - basicLogger - DEBUG - new event with a trace id of 79046708852
+2022-10-25 11:10:09,319 - basicLogger - DEBUG - new event with a trace id of 29276306214
+2022-10-25 11:10:09,319 - basicLogger - DEBUG - new event with a trace id of 23130585185
+2022-10-25 11:10:09,320 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 96
+2022-10-25 11:10:09,320 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:10:09,607 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:10:14,141 - basicLogger - DEBUG - new event with a trace id of 45998313750
+2022-10-25 11:10:14,142 - basicLogger - DEBUG - new event with a trace id of 64170659786
+2022-10-25 11:10:14,143 - basicLogger - DEBUG - new event with a trace id of 61936408826
+2022-10-25 11:10:14,143 - basicLogger - DEBUG - new event with a trace id of 99644832015
+2022-10-25 11:10:14,144 - basicLogger - DEBUG - new event with a trace id of 42671859376
+2022-10-25 11:10:14,144 - basicLogger - DEBUG - new event with a trace id of 52902065529
+2022-10-25 11:10:14,145 - basicLogger - DEBUG - new event with a trace id of 8255901183
+2022-10-25 11:10:14,145 - basicLogger - DEBUG - new event with a trace id of 4858681253
+2022-10-25 11:10:14,146 - basicLogger - DEBUG - new event with a trace id of 86636186249
+2022-10-25 11:10:14,146 - basicLogger - DEBUG - new event with a trace id of 97865421232
+2022-10-25 11:10:14,147 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 100
+2022-10-25 11:10:14,147 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:10:14,614 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:10:19,216 - basicLogger - DEBUG - new event with a trace id of 79829567583
+2022-10-25 11:10:19,217 - basicLogger - DEBUG - new event with a trace id of 56415400858
+2022-10-25 11:10:19,217 - basicLogger - DEBUG - new event with a trace id of 74249051878
+2022-10-25 11:10:19,218 - basicLogger - DEBUG - new event with a trace id of 69200212038
+2022-10-25 11:10:19,218 - basicLogger - DEBUG - new event with a trace id of 35112862877
+2022-10-25 11:10:19,219 - basicLogger - DEBUG - new event with a trace id of 33546851632
+2022-10-25 11:10:19,219 - basicLogger - DEBUG - new event with a trace id of 40917776654
+2022-10-25 11:10:19,219 - basicLogger - DEBUG - new event with a trace id of 63975247427
+2022-10-25 11:10:19,220 - basicLogger - DEBUG - new event with a trace id of 23793716647
+2022-10-25 11:10:19,220 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 104
+2022-10-25 11:10:19,221 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:10:19,605 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:10:24,269 - basicLogger - DEBUG - new event with a trace id of 99680834714
+2022-10-25 11:10:24,270 - basicLogger - DEBUG - new event with a trace id of 22599240180
+2022-10-25 11:10:24,270 - basicLogger - DEBUG - new event with a trace id of 30907212825
+2022-10-25 11:10:24,271 - basicLogger - DEBUG - new event with a trace id of 19081633117
+2022-10-25 11:10:24,272 - basicLogger - DEBUG - new event with a trace id of 69856650353
+2022-10-25 11:10:24,273 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 108
+2022-10-25 11:10:24,273 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:10:24,606 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:10:29,314 - basicLogger - DEBUG - new event with a trace id of 99716712247
+2022-10-25 11:10:29,315 - basicLogger - DEBUG - new event with a trace id of 66609177756
+2022-10-25 11:10:29,315 - basicLogger - DEBUG - new event with a trace id of 26497070992
+2022-10-25 11:10:29,315 - basicLogger - DEBUG - new event with a trace id of 4665672543
+2022-10-25 11:10:29,316 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 112
+2022-10-25 11:10:29,316 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:10:29,613 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:10:34,166 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 116
+2022-10-25 11:10:34,167 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:10:34,616 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:10:39,357 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 116
+2022-10-25 11:10:39,358 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:10:39,605 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:10:44,271 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 116
+2022-10-25 11:10:44,272 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:10:44,612 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:10:49,240 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 116
+2022-10-25 11:10:49,241 - basicLogger - INFO - Period processing has ended.
+2022-10-25 11:10:49,611 - basicLogger - INFO - Period processing has been started
+2022-10-25 11:10:54,131 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 116
+2022-10-25 11:10:54,132 - basicLogger - INFO - Period processing has ended.
+2022-10-26 11:24:14,875 - basicLogger - INFO - Period processing has been started
+2022-10-26 11:24:19,873 - basicLogger - INFO - Period processing has been started
+2022-10-26 11:24:24,871 - basicLogger - INFO - Period processing has been started
+2022-10-26 11:24:29,862 - basicLogger - INFO - Period processing has been started
+2022-10-26 11:24:34,861 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:34:18,806 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:34:23,804 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:34:28,800 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:34:33,794 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:34:38,802 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:34:43,797 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:34:48,799 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:34:53,805 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:34:58,794 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:35:03,797 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:35:08,792 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:35:13,805 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:35:18,792 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:35:23,803 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:35:28,802 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:35:33,803 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:35:38,804 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:35:43,799 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:35:48,798 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:35:53,794 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:35:58,792 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:36:03,802 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:36:08,792 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:36:13,794 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:36:18,804 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:36:23,796 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:36:28,799 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:36:33,799 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:36:38,803 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:36:43,796 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:36:48,803 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:36:53,800 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:36:58,798 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:37:03,793 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:37:08,804 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:37:13,794 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:37:18,807 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:37:23,808 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:37:28,792 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:37:33,792 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:37:38,808 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:37:43,799 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:37:48,802 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:37:53,796 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:37:58,800 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:38:03,799 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:38:08,792 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:38:13,806 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:38:18,809 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:38:23,805 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:38:28,808 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:38:33,805 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:38:38,806 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:38:43,793 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:38:48,798 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:38:53,804 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:38:58,808 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:39:03,794 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:39:08,797 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:39:13,798 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:39:18,798 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:39:23,794 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:39:28,793 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:39:33,804 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:39:38,794 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:39:43,805 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:39:48,804 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:39:53,794 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:39:58,798 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:40:03,802 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:40:08,793 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:40:13,803 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:40:18,794 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:40:23,806 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:40:28,793 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:40:33,798 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:40:38,797 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:40:43,794 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:40:48,796 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:40:53,801 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:40:58,802 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:41:03,803 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:41:08,801 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:41:13,801 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:41:18,794 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:41:23,797 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:41:28,793 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:41:33,795 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:41:38,792 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:41:43,803 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:41:48,794 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:41:53,794 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:41:58,798 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:42:03,808 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:42:08,801 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:42:13,799 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:42:18,803 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:42:23,795 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:42:28,795 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:42:33,795 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:42:38,795 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:42:43,804 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:42:48,793 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:42:53,797 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:42:58,793 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:43:03,802 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:43:08,794 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:43:13,801 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:43:18,802 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:43:23,806 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:43:28,795 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:43:33,803 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:43:38,801 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:43:43,797 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:43:48,800 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:43:53,796 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:43:58,805 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:44:03,802 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:44:08,806 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:44:13,797 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:44:18,800 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:44:23,802 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:44:28,798 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:44:33,799 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:44:38,793 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:44:43,794 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:44:48,806 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:44:53,808 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:44:58,808 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:45:03,795 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:45:08,803 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:45:13,808 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:45:18,808 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:45:23,797 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:45:28,806 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:45:33,800 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:45:38,801 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:45:43,791 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:45:48,805 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:45:53,804 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:45:58,804 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:46:03,794 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:46:08,805 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:46:13,797 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:46:18,799 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:46:23,803 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:46:28,797 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:46:33,807 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:46:38,792 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:46:43,801 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:46:48,803 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:46:53,880 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 116
+2022-10-30 13:46:53,880 - basicLogger - INFO - Period processing has ended.
+2022-10-30 13:46:58,803 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:47:03,360 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 116
+2022-10-30 13:47:03,360 - basicLogger - INFO - Period processing has ended.
+2022-10-30 13:47:03,807 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:47:08,363 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 116
+2022-10-30 13:47:08,363 - basicLogger - INFO - Period processing has ended.
+2022-10-30 13:47:08,801 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:47:13,352 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 116
+2022-10-30 13:47:13,353 - basicLogger - INFO - Period processing has ended.
+2022-10-30 13:47:13,793 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:47:18,341 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 116
+2022-10-30 13:47:18,342 - basicLogger - INFO - Period processing has ended.
+2022-10-30 13:47:18,806 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:47:23,369 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 116
+2022-10-30 13:47:23,370 - basicLogger - INFO - Period processing has ended.
+2022-10-30 13:47:23,798 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:47:28,348 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 116
+2022-10-30 13:47:28,348 - basicLogger - INFO - Period processing has ended.
+2022-10-30 13:47:28,799 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:47:33,371 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 116
+2022-10-30 13:47:33,372 - basicLogger - INFO - Period processing has ended.
+2022-10-30 13:47:33,805 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:47:38,342 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 116
+2022-10-30 13:47:38,343 - basicLogger - INFO - Period processing has ended.
+2022-10-30 13:47:38,799 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:47:43,359 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 116
+2022-10-30 13:47:43,359 - basicLogger - INFO - Period processing has ended.
+2022-10-30 13:47:43,796 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:47:48,308 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 120
+2022-10-30 13:47:48,309 - basicLogger - INFO - Period processing has ended.
+2022-10-30 13:47:48,801 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:47:53,323 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 120
+2022-10-30 13:47:53,323 - basicLogger - INFO - Period processing has ended.
+2022-10-30 13:47:53,803 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:47:58,306 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 120
+2022-10-30 13:47:58,307 - basicLogger - INFO - Period processing has ended.
+2022-10-30 13:47:58,804 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:48:03,325 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 120
+2022-10-30 13:48:03,326 - basicLogger - INFO - Period processing has ended.
+2022-10-30 13:48:03,803 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:48:08,341 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 120
+2022-10-30 13:48:08,341 - basicLogger - INFO - Period processing has ended.
+2022-10-30 13:48:08,804 - basicLogger - INFO - Period processing has been started
+2022-10-30 13:48:13,332 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 120
+2022-10-30 13:48:13,332 - basicLogger - INFO - Period processing has ended.
+2022-11-04 08:22:43,399 - basicLogger - INFO - Period processing has been started
+2022-11-04 08:22:55,851 - basicLogger - DEBUG - new event with a trace id of 63562960350
+2022-11-04 08:22:55,852 - basicLogger - DEBUG - new event with a trace id of 71338185373
+2022-11-04 08:22:55,852 - basicLogger - DEBUG - new event with a trace id of 68667751731
+2022-11-04 08:22:55,854 - basicLogger - DEBUG - new event with a trace id of 44038782644
+2022-11-04 08:22:55,855 - basicLogger - DEBUG - new event with a trace id of 99644955000
+2022-11-04 08:22:55,855 - basicLogger - DEBUG - new event with a trace id of 44448772604
+2022-11-04 08:22:55,856 - basicLogger - DEBUG - new event with a trace id of 17366611363
+2022-11-04 08:22:55,856 - basicLogger - DEBUG - new event with a trace id of 7816983323
+2022-11-04 08:22:55,857 - basicLogger - DEBUG - new event with a trace id of 86848388670
+2022-11-04 08:22:55,857 - basicLogger - DEBUG - new event with a trace id of 91803591507
+2022-11-04 08:22:55,858 - basicLogger - DEBUG - new event with a trace id of 66195998649
+2022-11-04 08:22:55,860 - basicLogger - DEBUG - new event with a trace id of 91210975549
+2022-11-04 08:22:55,862 - basicLogger - DEBUG - new event with a trace id of 66195998649
+2022-11-04 08:22:55,863 - basicLogger - DEBUG - new event with a trace id of 85349113774
+2022-11-04 08:22:55,871 - basicLogger - DEBUG - new event with a trace id of 91210975549
+2022-11-04 08:22:55,872 - basicLogger - DEBUG - new event with a trace id of 85349113774
+2022-11-04 08:22:55,873 - basicLogger - DEBUG - new event with a trace id of 62726060393
+2022-11-04 08:22:55,874 - basicLogger - DEBUG - new event with a trace id of 62726060393
+2022-11-04 08:22:55,874 - basicLogger - DEBUG - new event with a trace id of 86869249581
+2022-11-04 08:22:55,875 - basicLogger - DEBUG - new event with a trace id of 86869249581
+2022-11-04 08:22:55,875 - basicLogger - DEBUG - new event with a trace id of 38277549994
+2022-11-04 08:22:55,876 - basicLogger - DEBUG - new event with a trace id of 38277549994
+2022-11-04 08:22:55,877 - basicLogger - DEBUG - new event with a trace id of 70666152313
+2022-11-04 08:22:55,877 - basicLogger - DEBUG - new event with a trace id of 70666152313
+2022-11-04 08:22:55,878 - basicLogger - DEBUG - new event with a trace id of 90180725889
+2022-11-04 08:22:55,879 - basicLogger - DEBUG - new event with a trace id of 90180725889
+2022-11-04 08:22:55,879 - basicLogger - DEBUG - new event with a trace id of 20741961032
+2022-11-04 08:22:55,880 - basicLogger - DEBUG - new event with a trace id of 20741961032
+2022-11-04 08:22:55,880 - basicLogger - DEBUG - new event with a trace id of 41082068110
+2022-11-04 08:22:55,881 - basicLogger - DEBUG - new event with a trace id of 41082068110
+2022-11-04 08:22:55,882 - basicLogger - DEBUG - new event with a trace id of 51526437425
+2022-11-04 08:22:55,882 - basicLogger - DEBUG - new event with a trace id of 95615414836
+2022-11-04 08:22:55,885 - basicLogger - DEBUG - new event with a trace id of 51526437425
+2022-11-04 08:22:55,885 - basicLogger - DEBUG - new event with a trace id of 35638103911
+2022-11-04 08:22:55,886 - basicLogger - DEBUG - new event with a trace id of 95615414836
+2022-11-04 08:22:55,886 - basicLogger - DEBUG - new event with a trace id of 99721054601
+2022-11-04 08:22:55,887 - basicLogger - DEBUG - new event with a trace id of 35638103911
+2022-11-04 08:22:55,888 - basicLogger - DEBUG - new event with a trace id of 52472693770
+2022-11-04 08:22:55,889 - basicLogger - DEBUG - new event with a trace id of 99721054601
+2022-11-04 08:22:55,889 - basicLogger - DEBUG - new event with a trace id of 82631463428
+2022-11-04 08:22:55,889 - basicLogger - DEBUG - new event with a trace id of 52472693770
+2022-11-04 08:22:55,890 - basicLogger - DEBUG - new event with a trace id of 2266007985
+2022-11-04 08:22:55,890 - basicLogger - DEBUG - new event with a trace id of 82631463428
+2022-11-04 08:22:55,890 - basicLogger - DEBUG - new event with a trace id of 47755294434
+2022-11-04 08:22:55,891 - basicLogger - DEBUG - new event with a trace id of 2266007985
+2022-11-04 08:22:55,891 - basicLogger - DEBUG - new event with a trace id of 47755294434
+2022-11-04 08:22:55,892 - basicLogger - DEBUG - new event with a trace id of 12184886155
+2022-11-04 08:22:55,894 - basicLogger - DEBUG - new event with a trace id of 12184886155
+2022-11-04 08:22:55,894 - basicLogger - DEBUG - new event with a trace id of 24639183634
+2022-11-04 08:22:55,895 - basicLogger - DEBUG - new event with a trace id of 24639183634
+2022-11-04 08:22:55,895 - basicLogger - DEBUG - new event with a trace id of 56683580615
+2022-11-04 08:22:55,895 - basicLogger - DEBUG - new event with a trace id of 89748218213
+2022-11-04 08:22:55,896 - basicLogger - DEBUG - new event with a trace id of 56683580615
+2022-11-04 08:22:55,897 - basicLogger - DEBUG - new event with a trace id of 60198440554
+2022-11-04 08:22:55,897 - basicLogger - DEBUG - new event with a trace id of 89748218213
+2022-11-04 08:22:55,898 - basicLogger - DEBUG - new event with a trace id of 94697229457
+2022-11-04 08:22:55,899 - basicLogger - DEBUG - new event with a trace id of 60198440554
+2022-11-04 08:22:55,900 - basicLogger - DEBUG - new event with a trace id of 76486555597
+2022-11-04 08:22:55,900 - basicLogger - DEBUG - new event with a trace id of 94697229457
+2022-11-04 08:22:55,901 - basicLogger - DEBUG - new event with a trace id of 37803180397
+2022-11-04 08:22:55,902 - basicLogger - DEBUG - new event with a trace id of 76486555597
+2022-11-04 08:22:55,902 - basicLogger - DEBUG - new event with a trace id of 47621218429
+2022-11-04 08:22:55,906 - basicLogger - DEBUG - new event with a trace id of 37803180397
+2022-11-04 08:22:55,918 - basicLogger - DEBUG - new event with a trace id of 78046008332
+2022-11-04 08:22:55,925 - basicLogger - DEBUG - new event with a trace id of 47621218429
+2022-11-04 08:22:55,941 - basicLogger - DEBUG - new event with a trace id of 78046008332
+2022-11-04 08:22:55,954 - basicLogger - DEBUG - new event with a trace id of 20484055153
+2022-11-04 08:22:55,961 - basicLogger - DEBUG - new event with a trace id of 47794691839
+2022-11-04 08:22:55,963 - basicLogger - DEBUG - new event with a trace id of 20484055153
+2022-11-04 08:22:55,963 - basicLogger - DEBUG - new event with a trace id of 47794691839
+2022-11-04 08:22:55,964 - basicLogger - DEBUG - new event with a trace id of 59220236392
+2022-11-04 08:22:55,964 - basicLogger - DEBUG - new event with a trace id of 59157913917
+2022-11-04 08:22:55,965 - basicLogger - DEBUG - new event with a trace id of 59220236392
+2022-11-04 08:22:55,965 - basicLogger - DEBUG - new event with a trace id of 7269553545
+2022-11-04 08:22:55,966 - basicLogger - DEBUG - new event with a trace id of 59157913917
+2022-11-04 08:22:55,966 - basicLogger - DEBUG - new event with a trace id of 12898211271
+2022-11-04 08:22:55,967 - basicLogger - DEBUG - new event with a trace id of 7269553545
+2022-11-04 08:22:55,967 - basicLogger - DEBUG - new event with a trace id of 73908834931
+2022-11-04 08:22:55,967 - basicLogger - DEBUG - new event with a trace id of 12898211271
+2022-11-04 08:22:55,968 - basicLogger - DEBUG - new event with a trace id of 83273930090
+2022-11-04 08:22:55,968 - basicLogger - DEBUG - new event with a trace id of 73908834931
+2022-11-04 08:22:55,968 - basicLogger - DEBUG - new event with a trace id of 83273930090
+2022-11-04 08:22:55,969 - basicLogger - DEBUG - new event with a trace id of 29526395398
+2022-11-04 08:22:55,969 - basicLogger - DEBUG - new event with a trace id of 87554486290
+2022-11-04 08:22:55,969 - basicLogger - DEBUG - new event with a trace id of 29526395398
+2022-11-04 08:22:55,970 - basicLogger - DEBUG - new event with a trace id of 81946686179
+2022-11-04 08:22:55,970 - basicLogger - DEBUG - new event with a trace id of 87554486290
+2022-11-04 08:22:55,970 - basicLogger - DEBUG - new event with a trace id of 81946686179
+2022-11-04 08:22:55,971 - basicLogger - DEBUG - new event with a trace id of 29251609301
+2022-11-04 08:22:55,972 - basicLogger - DEBUG - new event with a trace id of 29251609301
+2022-11-04 08:22:55,972 - basicLogger - DEBUG - new event with a trace id of 72974620036
+2022-11-04 08:22:55,972 - basicLogger - DEBUG - new event with a trace id of 72974620036
+2022-11-04 08:22:55,973 - basicLogger - DEBUG - new event with a trace id of 42904679938
+2022-11-04 08:22:55,973 - basicLogger - DEBUG - new event with a trace id of 42904679938
+2022-11-04 08:22:55,974 - basicLogger - DEBUG - new event with a trace id of 1261541632
+2022-11-04 08:22:55,974 - basicLogger - DEBUG - new event with a trace id of 1261541632
+2022-11-04 08:22:55,975 - basicLogger - DEBUG - new event with a trace id of 16804666365
+2022-11-04 08:22:55,975 - basicLogger - DEBUG - new event with a trace id of 16804666365
+2022-11-04 08:22:55,976 - basicLogger - DEBUG - new event with a trace id of 20523232222
+2022-11-04 08:22:55,976 - basicLogger - DEBUG - new event with a trace id of 20523232222
+2022-11-04 08:22:55,977 - basicLogger - DEBUG - new event with a trace id of 58894081027
+2022-11-04 08:22:55,979 - basicLogger - DEBUG - new event with a trace id of 58894081027
+2022-11-04 08:22:55,980 - basicLogger - DEBUG - new event with a trace id of 25652591054
+2022-11-04 08:22:55,982 - basicLogger - DEBUG - new event with a trace id of 64782451076
+2022-11-04 08:22:55,983 - basicLogger - DEBUG - new event with a trace id of 25652591054
+2022-11-04 08:22:55,983 - basicLogger - DEBUG - new event with a trace id of 33382882392
+2022-11-04 08:22:55,984 - basicLogger - DEBUG - new event with a trace id of 64782451076
+2022-11-04 08:22:55,984 - basicLogger - DEBUG - new event with a trace id of 29474009455
+2022-11-04 08:22:55,985 - basicLogger - DEBUG - new event with a trace id of 33382882392
+2022-11-04 08:22:55,985 - basicLogger - DEBUG - new event with a trace id of 29474009455
+2022-11-04 08:22:55,985 - basicLogger - DEBUG - new event with a trace id of 55615713707
+2022-11-04 08:22:55,986 - basicLogger - DEBUG - new event with a trace id of 55615713707
+2022-11-04 08:22:55,986 - basicLogger - DEBUG - new event with a trace id of 98726483556
+2022-11-04 08:22:55,987 - basicLogger - DEBUG - new event with a trace id of 98726483556
+2022-11-04 08:22:55,987 - basicLogger - DEBUG - new event with a trace id of 98046292031
+2022-11-04 08:22:55,987 - basicLogger - DEBUG - new event with a trace id of 98046292031
+2022-11-04 08:22:55,987 - basicLogger - DEBUG - new event with a trace id of 62132759967
+2022-11-04 08:22:55,988 - basicLogger - DEBUG - new event with a trace id of 62132759967
+2022-11-04 08:22:55,988 - basicLogger - DEBUG - new event with a trace id of 23195003135
+2022-11-04 08:22:55,989 - basicLogger - DEBUG - new event with a trace id of 23195003135
+2022-11-04 08:22:55,990 - basicLogger - DEBUG - new event with a trace id of 62832887451
+2022-11-04 08:22:55,990 - basicLogger - DEBUG - new event with a trace id of 62832887451
+2022-11-04 08:22:55,990 - basicLogger - DEBUG - new event with a trace id of 10421439042
+2022-11-04 08:22:55,991 - basicLogger - DEBUG - new event with a trace id of 38161986808
+2022-11-04 08:22:55,992 - basicLogger - DEBUG - new event with a trace id of 10421439042
+2022-11-04 08:22:55,992 - basicLogger - DEBUG - new event with a trace id of 7620815902
+2022-11-04 08:22:55,993 - basicLogger - DEBUG - new event with a trace id of 38161986808
+2022-11-04 08:22:55,993 - basicLogger - DEBUG - new event with a trace id of 84937757320
+2022-11-04 08:22:55,994 - basicLogger - DEBUG - new event with a trace id of 7620815902
+2022-11-04 08:22:55,995 - basicLogger - DEBUG - new event with a trace id of 84937757320
+2022-11-04 08:22:55,995 - basicLogger - DEBUG - new event with a trace id of 84972057975
+2022-11-04 08:22:55,995 - basicLogger - DEBUG - new event with a trace id of 6256850223
+2022-11-04 08:22:55,996 - basicLogger - DEBUG - new event with a trace id of 84972057975
+2022-11-04 08:22:55,996 - basicLogger - DEBUG - new event with a trace id of 6256850223
+2022-11-04 08:22:55,997 - basicLogger - DEBUG - new event with a trace id of 65799082571
+2022-11-04 08:22:55,998 - basicLogger - DEBUG - new event with a trace id of 65799082571
+2022-11-04 08:22:55,998 - basicLogger - DEBUG - new event with a trace id of 3696795354
+2022-11-04 08:22:55,998 - basicLogger - DEBUG - new event with a trace id of 3696795354
+2022-11-04 08:22:55,999 - basicLogger - DEBUG - new event with a trace id of 19505308840
+2022-11-04 08:22:55,999 - basicLogger - DEBUG - new event with a trace id of 19505308840
+2022-11-04 08:22:56,000 - basicLogger - DEBUG - new event with a trace id of 87040010684
+2022-11-04 08:22:56,000 - basicLogger - DEBUG - new event with a trace id of 87040010684
+2022-11-04 08:22:56,000 - basicLogger - DEBUG - new event with a trace id of 54782159468
+2022-11-04 08:22:56,001 - basicLogger - DEBUG - new event with a trace id of 54782159468
+2022-11-04 08:22:56,002 - basicLogger - DEBUG - new event with a trace id of 69126300450
+2022-11-04 08:22:56,002 - basicLogger - DEBUG - new event with a trace id of 69126300450
+2022-11-04 08:22:56,002 - basicLogger - DEBUG - new event with a trace id of 51941954593
+2022-11-04 08:22:56,003 - basicLogger - DEBUG - new event with a trace id of 51941954593
+2022-11-04 08:22:56,003 - basicLogger - DEBUG - new event with a trace id of 73615237371
+2022-11-04 08:22:56,004 - basicLogger - DEBUG - new event with a trace id of 73615237371
+2022-11-04 08:22:56,004 - basicLogger - DEBUG - new event with a trace id of 55219156505
+2022-11-04 08:22:56,005 - basicLogger - DEBUG - new event with a trace id of 55219156505
+2022-11-04 08:22:56,005 - basicLogger - DEBUG - new event with a trace id of 64061484217
+2022-11-04 08:22:56,006 - basicLogger - DEBUG - new event with a trace id of 64061484217
+2022-11-04 08:22:56,007 - basicLogger - DEBUG - new event with a trace id of 66347042380
+2022-11-04 08:22:56,008 - basicLogger - DEBUG - new event with a trace id of 56815324795
+2022-11-04 08:22:56,008 - basicLogger - DEBUG - new event with a trace id of 66347042380
+2022-11-04 08:22:56,009 - basicLogger - DEBUG - new event with a trace id of 96927889470
+2022-11-04 08:22:56,009 - basicLogger - DEBUG - new event with a trace id of 56815324795
+2022-11-04 08:22:56,012 - basicLogger - DEBUG - new event with a trace id of 72237563736
+2022-11-04 08:22:56,012 - basicLogger - DEBUG - new event with a trace id of 96927889470
+2022-11-04 08:22:56,014 - basicLogger - DEBUG - new event with a trace id of 66480706430
+2022-11-04 08:22:56,015 - basicLogger - DEBUG - new event with a trace id of 72237563736
+2022-11-04 08:22:56,017 - basicLogger - DEBUG - new event with a trace id of 5716030500
+2022-11-04 08:22:56,017 - basicLogger - DEBUG - new event with a trace id of 66480706430
+2022-11-04 08:22:56,018 - basicLogger - DEBUG - new event with a trace id of 25793705875
+2022-11-04 08:22:56,019 - basicLogger - DEBUG - new event with a trace id of 5716030500
+2022-11-04 08:22:56,019 - basicLogger - DEBUG - new event with a trace id of 25793705875
+2022-11-04 08:22:56,020 - basicLogger - DEBUG - new event with a trace id of 34649726433
+2022-11-04 08:22:56,020 - basicLogger - DEBUG - new event with a trace id of 34649726433
+2022-11-04 08:22:56,021 - basicLogger - DEBUG - new event with a trace id of 48934265107
+2022-11-04 08:22:56,021 - basicLogger - DEBUG - new event with a trace id of 47039766736
+2022-11-04 08:22:56,022 - basicLogger - DEBUG - new event with a trace id of 48934265107
+2022-11-04 08:22:56,022 - basicLogger - DEBUG - new event with a trace id of 98711840243
+2022-11-04 08:22:56,022 - basicLogger - DEBUG - new event with a trace id of 47039766736
+2022-11-04 08:22:56,023 - basicLogger - DEBUG - new event with a trace id of 78076191977
+2022-11-04 08:22:56,023 - basicLogger - DEBUG - new event with a trace id of 98711840243
+2022-11-04 08:22:56,023 - basicLogger - DEBUG - new event with a trace id of 78076191977
+2022-11-04 08:22:56,024 - basicLogger - DEBUG - new event with a trace id of 66444089350
+2022-11-04 08:22:56,024 - basicLogger - DEBUG - new event with a trace id of 37639724459
+2022-11-04 08:22:56,025 - basicLogger - DEBUG - new event with a trace id of 66444089350
+2022-11-04 08:22:56,025 - basicLogger - DEBUG - new event with a trace id of 37639724459
+2022-11-04 08:22:56,025 - basicLogger - DEBUG - new event with a trace id of 70367560673
+2022-11-04 08:22:56,026 - basicLogger - DEBUG - new event with a trace id of 70367560673
+2022-11-04 08:22:56,026 - basicLogger - DEBUG - new event with a trace id of 82793097012
+2022-11-04 08:22:56,026 - basicLogger - DEBUG - new event with a trace id of 43503983519
+2022-11-04 08:22:56,027 - basicLogger - DEBUG - new event with a trace id of 82793097012
+2022-11-04 08:22:56,029 - basicLogger - DEBUG - new event with a trace id of 43503983519
+2022-11-04 08:22:56,029 - basicLogger - DEBUG - new event with a trace id of 89634137552
+2022-11-04 08:22:56,030 - basicLogger - DEBUG - new event with a trace id of 89634137552
+2022-11-04 08:22:56,030 - basicLogger - DEBUG - new event with a trace id of 13989550058
+2022-11-04 08:22:56,031 - basicLogger - DEBUG - new event with a trace id of 13989550058
+2022-11-04 08:22:56,031 - basicLogger - DEBUG - new event with a trace id of 65373008215
+2022-11-04 08:22:56,032 - basicLogger - DEBUG - new event with a trace id of 94680979560
+2022-11-04 08:22:56,033 - basicLogger - DEBUG - new event with a trace id of 11915885867
+2022-11-04 08:22:56,033 - basicLogger - DEBUG - new event with a trace id of 64010673777
+2022-11-04 08:22:56,034 - basicLogger - DEBUG - new event with a trace id of 97933749797
+2022-11-04 08:22:56,035 - basicLogger - DEBUG - new event with a trace id of 70214964629
+2022-11-04 08:22:56,035 - basicLogger - DEBUG - new event with a trace id of 47349265815
+2022-11-04 08:22:56,035 - basicLogger - DEBUG - new event with a trace id of 73120691280
+2022-11-04 08:22:56,036 - basicLogger - DEBUG - new event with a trace id of 16908587101
+2022-11-04 08:22:56,036 - basicLogger - DEBUG - new event with a trace id of 16807399380
+2022-11-04 08:22:56,037 - basicLogger - DEBUG - new event with a trace id of 29925721925
+2022-11-04 08:22:56,037 - basicLogger - DEBUG - new event with a trace id of 93750758704
+2022-11-04 08:22:56,037 - basicLogger - DEBUG - new event with a trace id of 87509450710
+2022-11-04 08:22:56,038 - basicLogger - DEBUG - new event with a trace id of 22305201604
+2022-11-04 08:22:56,038 - basicLogger - DEBUG - new event with a trace id of 22305201604
+2022-11-04 08:22:56,038 - basicLogger - DEBUG - new event with a trace id of 80950907698
+2022-11-04 08:22:56,039 - basicLogger - DEBUG - new event with a trace id of 80950907698
+2022-11-04 08:22:56,039 - basicLogger - DEBUG - new event with a trace id of 73888140835
+2022-11-04 08:22:56,039 - basicLogger - DEBUG - new event with a trace id of 14354022482
+2022-11-04 08:22:56,040 - basicLogger - DEBUG - new event with a trace id of 73888140835
+2022-11-04 08:22:56,040 - basicLogger - DEBUG - new event with a trace id of 98604982372
+2022-11-04 08:22:56,040 - basicLogger - DEBUG - new event with a trace id of 14354022482
+2022-11-04 08:22:56,040 - basicLogger - DEBUG - new event with a trace id of 98604982372
+2022-11-04 08:22:56,040 - basicLogger - DEBUG - new event with a trace id of 68744571865
+2022-11-04 08:22:56,041 - basicLogger - DEBUG - new event with a trace id of 8863826479
+2022-11-04 08:22:56,041 - basicLogger - DEBUG - new event with a trace id of 68744571865
+2022-11-04 08:22:56,041 - basicLogger - DEBUG - new event with a trace id of 8863826479
+2022-11-04 08:22:56,041 - basicLogger - DEBUG - new event with a trace id of 9790421804
+2022-11-04 08:22:56,042 - basicLogger - DEBUG - new event with a trace id of 94611941833
+2022-11-04 08:22:56,043 - basicLogger - DEBUG - new event with a trace id of 9790421804
+2022-11-04 08:22:56,044 - basicLogger - DEBUG - new event with a trace id of 23695520826
+2022-11-04 08:22:56,045 - basicLogger - DEBUG - new event with a trace id of 94611941833
+2022-11-04 08:22:56,047 - basicLogger - DEBUG - new event with a trace id of 22942492176
+2022-11-04 08:22:56,047 - basicLogger - DEBUG - new event with a trace id of 23695520826
+2022-11-04 08:22:56,047 - basicLogger - DEBUG - new event with a trace id of 96590799444
+2022-11-04 08:22:56,047 - basicLogger - DEBUG - new event with a trace id of 22942492176
+2022-11-04 08:22:56,048 - basicLogger - DEBUG - new event with a trace id of 96590799444
+2022-11-04 08:22:56,049 - basicLogger - DEBUG - new event with a trace id of 46539483865
+2022-11-04 08:22:56,049 - basicLogger - DEBUG - new event with a trace id of 96474810176
+2022-11-04 08:22:56,050 - basicLogger - DEBUG - new event with a trace id of 46539483865
+2022-11-04 08:22:56,050 - basicLogger - DEBUG - new event with a trace id of 82006298716
+2022-11-04 08:22:56,051 - basicLogger - DEBUG - new event with a trace id of 96474810176
+2022-11-04 08:22:56,051 - basicLogger - DEBUG - new event with a trace id of 82006298716
+2022-11-04 08:22:56,052 - basicLogger - DEBUG - new event with a trace id of 56023008358
+2022-11-04 08:22:56,052 - basicLogger - DEBUG - new event with a trace id of 56023008358
+2022-11-04 08:22:56,053 - basicLogger - DEBUG - new event with a trace id of 86776417786
+2022-11-04 08:22:56,053 - basicLogger - DEBUG - new event with a trace id of 86776417786
+2022-11-04 08:22:56,054 - basicLogger - DEBUG - new event with a trace id of 30598731782
+2022-11-04 08:22:56,054 - basicLogger - DEBUG - new event with a trace id of 43677049545
+2022-11-04 08:22:56,055 - basicLogger - DEBUG - new event with a trace id of 30598731782
+2022-11-04 08:22:56,055 - basicLogger - DEBUG - new event with a trace id of 71650520165
+2022-11-04 08:22:56,056 - basicLogger - DEBUG - new event with a trace id of 43677049545
+2022-11-04 08:22:56,056 - basicLogger - DEBUG - new event with a trace id of 33977031066
+2022-11-04 08:22:56,056 - basicLogger - DEBUG - new event with a trace id of 71650520165
+2022-11-04 08:22:56,056 - basicLogger - DEBUG - new event with a trace id of 33977031066
+2022-11-04 08:22:56,057 - basicLogger - DEBUG - new event with a trace id of 67381395496
+2022-11-04 08:22:56,057 - basicLogger - DEBUG - new event with a trace id of 67381395496
+2022-11-04 08:22:56,058 - basicLogger - DEBUG - new event with a trace id of 85782690965
+2022-11-04 08:22:56,058 - basicLogger - DEBUG - new event with a trace id of 91404158759
+2022-11-04 08:22:56,058 - basicLogger - DEBUG - new event with a trace id of 85782690965
+2022-11-04 08:22:56,060 - basicLogger - DEBUG - new event with a trace id of 91404158759
+2022-11-04 08:22:56,060 - basicLogger - DEBUG - new event with a trace id of 87189309346
+2022-11-04 08:22:56,061 - basicLogger - DEBUG - new event with a trace id of 87189309346
+2022-11-04 08:22:56,061 - basicLogger - DEBUG - new event with a trace id of 12862402785
+2022-11-04 08:22:56,061 - basicLogger - DEBUG - new event with a trace id of 12862402785
+2022-11-04 08:22:56,062 - basicLogger - DEBUG - new event with a trace id of 12778135461
+2022-11-04 08:22:56,062 - basicLogger - DEBUG - new event with a trace id of 12778135461
+2022-11-04 08:22:56,063 - basicLogger - DEBUG - new event with a trace id of 18027784742
+2022-11-04 08:22:56,063 - basicLogger - DEBUG - new event with a trace id of 18027784742
+2022-11-04 08:22:56,064 - basicLogger - DEBUG - new event with a trace id of 16694955973
+2022-11-04 08:22:56,064 - basicLogger - DEBUG - new event with a trace id of 16694955973
+2022-11-04 08:22:56,064 - basicLogger - DEBUG - new event with a trace id of 37959002337
+2022-11-04 08:22:56,066 - basicLogger - DEBUG - new event with a trace id of 23863587678
+2022-11-04 08:22:56,067 - basicLogger - DEBUG - new event with a trace id of 37959002337
+2022-11-04 08:22:56,067 - basicLogger - DEBUG - new event with a trace id of 23863587678
+2022-11-04 08:22:56,068 - basicLogger - DEBUG - new event with a trace id of 7222058534
+2022-11-04 08:22:56,068 - basicLogger - DEBUG - new event with a trace id of 7222058534
+2022-11-04 08:22:56,069 - basicLogger - DEBUG - new event with a trace id of 31215466853
+2022-11-04 08:22:56,070 - basicLogger - DEBUG - new event with a trace id of 60741922477
+2022-11-04 08:22:56,070 - basicLogger - DEBUG - new event with a trace id of 31215466853
+2022-11-04 08:22:56,071 - basicLogger - DEBUG - new event with a trace id of 303456466
+2022-11-04 08:22:56,071 - basicLogger - DEBUG - new event with a trace id of 60741922477
+2022-11-04 08:22:56,072 - basicLogger - DEBUG - new event with a trace id of 303456466
+2022-11-04 08:22:56,072 - basicLogger - DEBUG - new event with a trace id of 88624416955
+2022-11-04 08:22:56,072 - basicLogger - DEBUG - new event with a trace id of 88624416955
+2022-11-04 08:22:56,073 - basicLogger - DEBUG - new event with a trace id of 5404327562
+2022-11-04 08:22:56,073 - basicLogger - DEBUG - new event with a trace id of 5404327562
+2022-11-04 08:22:56,074 - basicLogger - DEBUG - new event with a trace id of 92085263130
+2022-11-04 08:22:56,074 - basicLogger - DEBUG - new event with a trace id of 80481980842
+2022-11-04 08:22:56,074 - basicLogger - DEBUG - new event with a trace id of 53995384327
+2022-11-04 08:22:56,075 - basicLogger - DEBUG - new event with a trace id of 64625331227
+2022-11-04 08:22:56,075 - basicLogger - DEBUG - new event with a trace id of 10803113535
+2022-11-04 08:22:56,075 - basicLogger - DEBUG - new event with a trace id of 552267548
+2022-11-04 08:22:56,076 - basicLogger - DEBUG - new event with a trace id of 80531608505
+2022-11-04 08:22:56,076 - basicLogger - DEBUG - new event with a trace id of 21033646835
+2022-11-04 08:22:56,076 - basicLogger - DEBUG - new event with a trace id of 38972785642
+2022-11-04 08:22:56,076 - basicLogger - DEBUG - new event with a trace id of 20630330171
+2022-11-04 08:22:56,077 - basicLogger - DEBUG - new event with a trace id of 34595433679
+2022-11-04 08:22:56,078 - basicLogger - DEBUG - new event with a trace id of 52580338284
+2022-11-04 08:22:56,078 - basicLogger - DEBUG - new event with a trace id of 20829936159
+2022-11-04 08:22:56,078 - basicLogger - DEBUG - new event with a trace id of 71395841030
+2022-11-04 08:22:56,079 - basicLogger - DEBUG - new event with a trace id of 56480473844
+2022-11-04 08:22:56,080 - basicLogger - DEBUG - new event with a trace id of 94093589345
+2022-11-04 08:22:56,081 - basicLogger - DEBUG - new event with a trace id of 71891713909
+2022-11-04 08:22:56,081 - basicLogger - DEBUG - new event with a trace id of 52371235165
+2022-11-04 08:22:56,082 - basicLogger - DEBUG - new event with a trace id of 34702244518
+2022-11-04 08:22:56,083 - basicLogger - DEBUG - new event with a trace id of 70976594197
+2022-11-04 08:22:56,083 - basicLogger - DEBUG - new event with a trace id of 5813087472
+2022-11-04 08:22:56,084 - basicLogger - DEBUG - new event with a trace id of 29895353614
+2022-11-04 08:22:56,084 - basicLogger - DEBUG - new event with a trace id of 91896234345
+2022-11-04 08:22:56,084 - basicLogger - DEBUG - new event with a trace id of 17315789417
+2022-11-04 08:22:56,085 - basicLogger - DEBUG - new event with a trace id of 15848669825
+2022-11-04 08:22:56,085 - basicLogger - DEBUG - new event with a trace id of 40902756980
+2022-11-04 08:22:56,086 - basicLogger - DEBUG - new event with a trace id of 52102066887
+2022-11-04 08:22:56,087 - basicLogger - DEBUG - new event with a trace id of 60753638154
+2022-11-04 08:22:56,087 - basicLogger - DEBUG - new event with a trace id of 1526506549
+2022-11-04 08:22:56,088 - basicLogger - DEBUG - new event with a trace id of 22807423757
+2022-11-04 08:22:56,088 - basicLogger - DEBUG - new event with a trace id of 4548554912
+2022-11-04 08:22:56,088 - basicLogger - DEBUG - new event with a trace id of 60232661648
+2022-11-04 08:22:56,089 - basicLogger - DEBUG - new event with a trace id of 90553905792
+2022-11-04 08:22:56,089 - basicLogger - DEBUG - new event with a trace id of 65483288719
+2022-11-04 08:22:56,090 - basicLogger - DEBUG - new event with a trace id of 33762132722
+2022-11-04 08:22:56,090 - basicLogger - DEBUG - new event with a trace id of 80852247977
+2022-11-04 08:22:56,091 - basicLogger - DEBUG - new event with a trace id of 60069180480
+2022-11-04 08:22:56,091 - basicLogger - DEBUG - new event with a trace id of 78192031251
+2022-11-04 08:22:56,091 - basicLogger - DEBUG - new event with a trace id of 9861414527
+2022-11-04 08:22:56,092 - basicLogger - DEBUG - new event with a trace id of 9397377189
+2022-11-04 08:22:56,092 - basicLogger - DEBUG - new event with a trace id of 66757918835
+2022-11-04 08:22:56,094 - basicLogger - DEBUG - new event with a trace id of 65953114594
+2022-11-04 08:22:56,095 - basicLogger - DEBUG - new event with a trace id of 25871651359
+2022-11-04 08:22:56,096 - basicLogger - DEBUG - new event with a trace id of 86598853185
+2022-11-04 08:22:56,096 - basicLogger - DEBUG - new event with a trace id of 69860970304
+2022-11-04 08:22:56,097 - basicLogger - DEBUG - new event with a trace id of 7160217105
+2022-11-04 08:22:56,098 - basicLogger - DEBUG - new event with a trace id of 87659734957
+2022-11-04 08:22:56,098 - basicLogger - DEBUG - new event with a trace id of 96792198796
+2022-11-04 08:22:56,098 - basicLogger - DEBUG - new event with a trace id of 24210453940
+2022-11-04 08:22:56,099 - basicLogger - DEBUG - new event with a trace id of 31231626649
+2022-11-04 08:22:56,100 - basicLogger - DEBUG - new event with a trace id of 19710102222
+2022-11-04 08:22:56,100 - basicLogger - DEBUG - new event with a trace id of 8391338525
+2022-11-04 08:22:56,100 - basicLogger - DEBUG - new event with a trace id of 27964832919
+2022-11-04 08:22:56,101 - basicLogger - DEBUG - new event with a trace id of 20372956348
+2022-11-04 08:22:56,102 - basicLogger - DEBUG - new event with a trace id of 99644724090
+2022-11-04 08:22:56,102 - basicLogger - DEBUG - new event with a trace id of 21162081264
+2022-11-04 08:22:56,102 - basicLogger - DEBUG - new event with a trace id of 23509030230
+2022-11-04 08:22:56,103 - basicLogger - DEBUG - new event with a trace id of 32580733217
+2022-11-04 08:22:56,105 - basicLogger - DEBUG - new event with a trace id of 38623591864
+2022-11-04 08:22:56,105 - basicLogger - DEBUG - new event with a trace id of 29405801832
+2022-11-04 08:22:56,106 - basicLogger - DEBUG - new event with a trace id of 239588734
+2022-11-04 08:22:56,106 - basicLogger - DEBUG - new event with a trace id of 33240909056
+2022-11-04 08:22:56,107 - basicLogger - DEBUG - new event with a trace id of 68203847368
+2022-11-04 08:22:56,107 - basicLogger - DEBUG - new event with a trace id of 44412354606
+2022-11-04 08:22:56,108 - basicLogger - DEBUG - new event with a trace id of 96429299556
+2022-11-04 08:22:56,108 - basicLogger - DEBUG - new event with a trace id of 47605354386
+2022-11-04 08:22:56,108 - basicLogger - DEBUG - new event with a trace id of 96579177374
+2022-11-04 08:22:56,108 - basicLogger - DEBUG - new event with a trace id of 97542339506
+2022-11-04 08:22:56,109 - basicLogger - DEBUG - new event with a trace id of 85161974033
+2022-11-04 08:22:56,111 - basicLogger - DEBUG - new event with a trace id of 99515160776
+2022-11-04 08:22:56,112 - basicLogger - DEBUG - new event with a trace id of 48843486766
+2022-11-04 08:22:56,114 - basicLogger - DEBUG - new event with a trace id of 90476453463
+2022-11-04 08:22:56,115 - basicLogger - DEBUG - new event with a trace id of 45008249439
+2022-11-04 08:22:56,116 - basicLogger - DEBUG - new event with a trace id of 67555706398
+2022-11-04 08:22:56,116 - basicLogger - DEBUG - new event with a trace id of 2320157229
+2022-11-04 08:22:56,117 - basicLogger - DEBUG - new event with a trace id of 80670972813
+2022-11-04 08:22:56,117 - basicLogger - DEBUG - new event with a trace id of 13341096874
+2022-11-04 08:22:56,118 - basicLogger - DEBUG - new event with a trace id of 58805690580
+2022-11-04 08:22:56,118 - basicLogger - DEBUG - new event with a trace id of 40535481639
+2022-11-04 08:22:56,118 - basicLogger - DEBUG - new event with a trace id of 50306247599
+2022-11-04 08:22:56,119 - basicLogger - DEBUG - new event with a trace id of 31397121418
+2022-11-04 08:22:56,119 - basicLogger - DEBUG - new event with a trace id of 51385607037
+2022-11-04 08:22:56,120 - basicLogger - DEBUG - new event with a trace id of 16190830753
+2022-11-04 08:22:56,120 - basicLogger - DEBUG - new event with a trace id of 18498892920
+2022-11-04 08:22:56,120 - basicLogger - DEBUG - new event with a trace id of 8362998408
+2022-11-04 08:22:56,120 - basicLogger - DEBUG - new event with a trace id of 82303052964
+2022-11-04 08:22:56,129 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 124
+2022-11-04 08:22:56,130 - basicLogger - INFO - Period processing has ended.
+2022-11-04 08:22:58,401 - basicLogger - INFO - Period processing has been started
+2022-11-04 08:23:03,406 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 124
+2022-11-04 08:23:03,407 - basicLogger - INFO - Period processing has ended.
+2022-11-04 08:23:08,393 - basicLogger - INFO - Period processing has been started
+2022-11-04 08:23:13,447 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 124
+2022-11-04 08:23:13,448 - basicLogger - INFO - Period processing has ended.
+2022-11-04 08:23:18,392 - basicLogger - INFO - Period processing has been started
+2022-11-04 08:23:23,223 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 124
+2022-11-04 08:23:23,223 - basicLogger - INFO - Period processing has ended.
+2022-11-04 08:23:23,403 - basicLogger - INFO - Period processing has been started
+2022-11-04 08:23:28,773 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 124
+2022-11-04 08:23:28,774 - basicLogger - INFO - Period processing has ended.
+2022-11-04 08:23:33,396 - basicLogger - INFO - Period processing has been started
+2022-11-04 08:23:39,236 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 124
+2022-11-04 08:23:39,237 - basicLogger - INFO - Period processing has ended.
+2022-11-04 08:23:43,390 - basicLogger - INFO - Period processing has been started
+2022-11-04 08:23:48,451 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 124
+2022-11-04 08:23:48,452 - basicLogger - INFO - Period processing has ended.
+2022-11-04 08:23:53,399 - basicLogger - INFO - Period processing has been started
+2022-11-04 08:23:58,394 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 124
+2022-11-04 08:23:58,395 - basicLogger - INFO - Period processing has ended.
+2022-11-04 08:24:03,395 - basicLogger - INFO - Period processing has been started
+2022-11-04 08:24:08,349 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 124
+2022-11-04 08:24:08,349 - basicLogger - INFO - Period processing has ended.
+2022-11-04 08:24:08,397 - basicLogger - INFO - Period processing has been started
+2022-11-04 08:24:13,369 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 124
+2022-11-04 08:24:13,370 - basicLogger - INFO - Period processing has ended.
+2022-11-04 08:24:13,389 - basicLogger - INFO - Period processing has been started
+2022-11-04 08:24:18,252 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 124
+2022-11-04 08:24:18,252 - basicLogger - INFO - Period processing has ended.
+2022-11-04 08:24:18,397 - basicLogger - INFO - Period processing has been started
+2022-11-04 08:24:26,674 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 124
+2022-11-04 08:24:26,676 - basicLogger - INFO - Period processing has ended.
+2022-11-04 08:24:28,396 - basicLogger - INFO - Period processing has been started
+2022-11-04 08:24:33,700 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 124
+2022-11-04 08:24:33,701 - basicLogger - INFO - Period processing has ended.
+2022-11-04 08:24:38,391 - basicLogger - INFO - Period processing has been started
+2022-11-04 08:24:44,082 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 124
+2022-11-04 08:24:44,083 - basicLogger - INFO - Period processing has ended.
+2022-11-04 08:24:48,402 - basicLogger - INFO - Period processing has been started
+2022-11-04 08:24:53,455 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 124
+2022-11-04 08:24:53,456 - basicLogger - INFO - Period processing has ended.
+2022-11-04 08:24:58,398 - basicLogger - INFO - Period processing has been started
+2022-11-04 08:25:03,556 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 124
+2022-11-04 08:25:03,557 - basicLogger - INFO - Period processing has ended.
+2022-11-04 08:25:08,396 - basicLogger - INFO - Period processing has been started
+2022-11-04 08:25:13,257 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 124
+2022-11-04 08:25:13,258 - basicLogger - INFO - Period processing has ended.
+2022-11-04 08:25:13,403 - basicLogger - INFO - Period processing has been started
+2022-11-04 08:25:18,690 - basicLogger - DEBUG - Updated statistics values : max_part_number = 998, max_part_price = 998, num_damaged_parts = 124
+2022-11-04 08:25:18,690 - basicLogger - INFO - Period processing has ended.
+2022-11-04 08:25:23,390 - basicLogger - INFO - Period processing has been started
+2022-11-04 08:25:28,400 - basicLogger - INFO - Period processing has been started

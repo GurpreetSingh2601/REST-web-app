@@ -1,0 +1,9 @@
+version: 1
+datastore:
+  filename: stats.sqlite
+scheduler:
+  period_sec: 5
+orders/received:
+  url: http://lab6a.eastus2.cloudapp.azure.com:8090/orders/received?start_timestamp=
+parts/damaged:
+  url: http://lab6a.eastus2.cloudapp.azure.com:8090/parts/damaged?start_timestamp=

@@ -1,0 +1,10 @@
+version: 1
+orders/received:
+  url: http://localhost:8090/orders/received
+parts/damaged:
+  url: http://localhost:8090/parts/damaged
+
+events:
+  hostname: lab6a.eastus2.cloudapp.azure.com
+  port: 9092
+  topic: events 

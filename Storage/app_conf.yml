@@ -1,0 +1,14 @@
+version: 1
+datastore:
+  user: python
+  password: password
+  hostname: lab6a.eastus2.cloudapp.azure.com
+  port: 3306
+  db: events
+
+events:
+  hostname: lab6a.eastus2.cloudapp.azure.com
+  port: 9092
+  topic: events
+  max_tries: 10
+  seconds: 6

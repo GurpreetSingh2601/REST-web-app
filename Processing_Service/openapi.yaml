@@ -1,0 +1,63 @@
+---
+openapi: 3.0.0
+info:
+  title: Stats API
+  description: The API provides event stats
+  contact:
+    email: gurubahre2019@gmail.com
+  version: 1.0.0
+servers:
+- url: /
+tags:
+- name: ez-fulfillment application
+  description: fulfillment team can see orders within this application
+paths:
+  /stats:
+    get:
+      tags:
+        - devices
+      summary: gets the event stats
+      operationId: app.get_stats
+      description: Gets orders received and damaged parts statistics
+      responses:
+        '200':
+          description: Successfully returned a list of orders received and damaged parts events
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/ReadingStats'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+
+components:
+  schemas:
+    ReadingStats:
+      required:
+      - num_orders
+      - max_part_number
+      - max_part_price
+      - num_damaged_part
+      type: object
+      properties:
+        max_part_number:
+          type: integer
+          example: 900
+        num_damaged_part:
+          type: integer
+          example: 1000
+        max_part_price:
+          type: integer
+          example: 5000
+        num_orders:
+          type: integer
+          example: 10
+    

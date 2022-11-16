@@ -1,0 +1,116 @@
+---
+openapi: 3.0.0
+info:
+  title: Reading API
+  description: The API receives order requests from auto-mechanics
+  contact:
+    email: gurubahre2019@gmail.com
+  version: 1.0.0
+servers:
+- url: /
+tags:
+- name: ez-fulfillment application
+  description: fulfillment team can see orders within this application
+paths:
+  /orders/received:
+    post:
+      tags:
+      - devices
+      summary: reports orders with their details
+      description: Adds a new order to the system
+      operationId: app.reports_order_details
+      requestBody:
+        description: Reading item to add
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/OrderedParts'
+      responses:
+        "201":
+          description: Order sent
+        "400":
+          description: invalid input, object invalid (unable to send the order)
+  /parts/damaged:
+    post:
+      tags:
+      - devices
+      summary: reports damaged parts
+      description: Adds a new damaged part information to the system
+      operationId: app.reports_damaged_parts
+      requestBody:
+        description: Reading item to add
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/DamagedParts'
+      responses:
+        "201":
+          description: Damaged order request sent
+        "400":
+          description: invalid input, object invalid (unable to send damaged part order)
+components:
+  schemas:
+    OrderedParts:
+      required:
+      - order_date
+      - order_number
+      - part_number
+      - part_price
+      - part_quantity
+      - part_type
+      type: object
+      properties:
+        order_number:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        order_date:
+          type: string
+          format: date-time
+          example: 2016-08-29T09:12:33.001Z
+        part_number:
+          type: integer
+          example: 301
+        part_quantity:
+          type: integer
+          example: 10
+        part_type:
+          type: string
+          example: A12345
+        part_price:
+          type: number
+          example: 39.99
+    DamagedParts:
+      required:
+      - damage_cost
+      - damage_description
+      - damaged_part_qty
+      - order_date
+      - order_number
+      - part_number
+      - part_type
+      type: object
+      properties:
+        order_number:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        order_date:
+          type: string
+          format: date-time
+          example: 2016-08-29T09:12:33.001Z
+        part_number:
+          type: integer
+          example: 301
+        part_type:
+          type: string
+          example: A12345
+        damage_cost:
+          type: number
+          example: 29.99
+        damaged_part_qty:
+          type: integer
+          example: 4
+        damage_description:
+          type: string
+          example: A12345

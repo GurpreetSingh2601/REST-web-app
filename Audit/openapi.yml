@@ -1,0 +1,147 @@
+openapi: 3.0.0
+info:
+  description: This API provides audit info
+  version: "1.0.0"
+  title: Audit API
+  contact:
+    email: gsingh403@my.bcit.ca
+paths:
+  /orders/received:
+    get:
+      summary: gets a ordered part reading from history
+      operationId: app.get_ordered_parts_reading
+      description: Gets order parts readings from the event store
+      parameters:
+        - name: index
+          in: query
+          description: Gets the orders at the index in the event store
+          schema:
+            type: integer
+            example: 100
+      responses:
+        '200':
+          description: Successfully returned a order parts event
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/OrderedParts'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+        '404':
+          description: Not Found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+
+  /parts/damaged:
+    get:
+      summary: gets a damaged part reading from history
+      operationId: app.get_damaged_parts_reading
+      description: Gets damaged part reading from the event store
+      parameters:
+        - name: index
+          in: query
+          description: Gets the damaged part at the index in the event store
+          schema:
+            type: integer
+            example: 100
+      responses:
+        '200':
+          description: Successfully returned a damaged part event
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/DamagedParts'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+        '404':
+          description: Not Found
+
+components:
+  schemas:
+    OrderedParts:
+      required:
+      - order_date
+      - order_number
+      - part_number
+      - part_price
+      - part_quantity
+      - part_type
+      type: object
+      properties:
+        order_number:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        order_date:
+          type: string
+          format: date-time
+          example: 2016-08-29T09:12:33.001Z
+        part_number:
+          type: integer
+          example: 301
+        part_quantity:
+          type: integer
+          example: 10
+        part_type:
+          type: string
+          example: A12345
+        part_price:
+          type: number
+          example: 39.99
+    DamagedParts:
+      required:
+      - damage_cost
+      - damage_description
+      - damaged_part_qty
+      - order_date
+      - order_number
+      - part_number
+      - part_type
+      type: object
+      properties:
+        order_number:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+        order_date:
+          type: string
+          format: date-time
+          example: 2016-08-29T09:12:33.001Z
+        part_number:
+          type: integer
+          example: 301
+        part_type:
+          type: string
+          example: A12345
+        damage_cost:
+          type: number
+          example: 29.99
+        damaged_part_qty:
+          type: integer
+          example: 4
+        damage_description:
+          type: string
+          example: A12345
