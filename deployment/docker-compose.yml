@@ -72,7 +72,6 @@ services:
     - processing-db:/data
     depends_on:
     - "storage"
-    network_mode: "host"
     
   audit_log:
     image: audit_log
