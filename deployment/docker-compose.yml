@@ -62,8 +62,6 @@ services:
     image: processing
     ports:
     - "8100:8100"
-    networks:
-      - "api.network"
     environment: 
     - TARGET_ENV=test
     volumes:
@@ -72,6 +70,7 @@ services:
     - processing-db:/data
     depends_on:
     - "storage"
+    network_mode: "host"
     
   audit_log:
     image: audit_log
