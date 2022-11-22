@@ -4,6 +4,6 @@ datastore:
 scheduler:
   period_sec: 2
 orders/received:
-  url: http://lab6a.eastus2.cloudapp.azure.com:8090/orders/received?start_timestamp=
+  url: http://lab6a.eastus2.cloudapp.azure.com/storage/orders/received?start_timestamp=
 parts/damaged:
-  url: http://lab6a.eastus2.cloudapp.azure.com:8090/parts/damaged?start_timestamp=
+  url: http://lab6a.eastus2.cloudapp.azure.com/storage/parts/damaged?start_timestamp=
