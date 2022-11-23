@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:18.04
 LABEL maintainer="gsingh403@my.bcit.ca"
 
 RUN apt-get update -y && \
