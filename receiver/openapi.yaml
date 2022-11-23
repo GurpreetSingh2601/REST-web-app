@@ -53,20 +53,27 @@ paths:
     get:
       tags:
         - devices
-      summary: reports health check
-      description: Reports health of receiver service
+      summary: gets the event stats
       operationId: app.health_check
-      requestBody:
-        description: Performing health check
-        content:
-          application/json:
+      description: Gets orders received and damaged parts statistics
+      responses:
+        '200':
+          description: Successfully returned a list of orders received and damaged parts events
+          content:
+            application/json:
               schema:
-                $ref: '#/components/schemas/Health'
-        responses:
-          "200":
-            description: service healthy
-          "400":
-            description: service not healthy
+                type: object
+                items:
+                  $ref: '#/components/schemas/Health'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
           
 components:
   schemas:
@@ -134,13 +141,13 @@ components:
         damage_description:
           type: string
           example: A12345
-
     Health:
       required:
-      - receiver
+      - num_orders
       type: object
       properties:
         receiver:
           type: string
-          example: running
+          example: A12345
+        
         
