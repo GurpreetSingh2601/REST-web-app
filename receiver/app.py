@@ -85,6 +85,7 @@ def reports_damaged_parts(body):
     return NoContent, 201
 
 def health_check():
+    logger.info("Checking for health")
     return NoContent, 200
     
 app = connexion.FlaskApp(__name__, specification_dir='')
