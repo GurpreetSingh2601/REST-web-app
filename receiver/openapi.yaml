@@ -48,6 +48,26 @@ paths:
           description: Damaged order request sent
         "400":
           description: invalid input, object invalid (unable to send damaged part order)
+  
+  /health:
+    get:
+      tags:
+        - devices
+      summary: reports health check
+      description: Reports health of receiver service
+      operationId: app.health_check
+      requestBody:
+        description: Performing health check
+        content:
+          application/json:
+              schema:
+                $ref: '#/components/schemas/health'
+        responses:
+          "200":
+            description: service healthy
+          "400":
+            description: service not healthy
+          
 components:
   schemas:
     OrderedParts:
@@ -114,3 +134,13 @@ components:
         damage_description:
           type: string
           example: A12345
+
+    health:
+      required:
+      - receiver
+      type: object
+      properties:
+        receiver:
+          type: string
+          example: running
+        

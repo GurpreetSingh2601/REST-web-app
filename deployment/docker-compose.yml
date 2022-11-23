@@ -73,7 +73,6 @@ services:
     networks:
       - "api.network"
     
-    
   audit_log:
     image: audit_log
     ports:

@@ -83,8 +83,10 @@ def reports_damaged_parts(body):
     producer.produce(msg_str.encode('utf-8'))
     logger.info(f"Returned event damaged part response with ID : {x} with response code 201")
     return NoContent, 201
-    
 
+def health_check():
+    return 200
+    
 app = connexion.FlaskApp(__name__, specification_dir='')
 app.add_api('openapi.yaml', base_path="/receiver", strict_validation=True, validate_responses=True)
 app.run(port=8080) 
