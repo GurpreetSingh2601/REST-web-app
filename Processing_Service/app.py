@@ -136,7 +136,7 @@ def populate_stats():
         max_part_number,
         max_part_price,
         num_damaged_part,
-        datetime.datetime.strptime(last_updated, "%Y-%m-%dT%H:%M:%S.%f"))
+        datetime.datetime.strptime(current_timestamp, "%Y-%m-%dT%H:%M:%S.%f"))
 
     logger.debug(f"Updated statistics values : max_part_number = {max_part_number}, max_part_price = {max_part_price}, num_damaged_parts = {num_damaged_part}")
     logger.info("Period processing has ended.")
@@ -159,7 +159,7 @@ if "TARGET_ENV" not in os.environ or os.environ["TARGET_ENV"] != "test":
 else:
     CORS(app.app)
     app.app.config['CORS_HEADERS'] = 'Content-Type'
-    
+
 app.add_api("openapi.yaml", base_path="/processing", strict_validation=True, validate_responses=True)
 
 if __name__ == "__main__":
