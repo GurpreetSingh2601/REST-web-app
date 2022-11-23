@@ -61,7 +61,7 @@ paths:
         content:
           application/json:
               schema:
-                $ref: '#/components/schemas/health'
+                $ref: '#/components/schemas/Health'
         responses:
           "200":
             description: service healthy
@@ -135,7 +135,7 @@ components:
           type: string
           example: A12345
 
-    health:
+    Health:
       required:
       - receiver
       type: object
