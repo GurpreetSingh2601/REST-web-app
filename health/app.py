@@ -37,26 +37,14 @@ if isExist == True:
 else:
     create_database(path)
 
-if "TARGET_ENV" in os.environ and os.environ["TARGET_ENV"] == "test":
-    print("In Test Environment")
-    app_conf_file = "/config/app_conf.yml"
-    log_conf_file = "/config/log_conf.yml"
-else:
-    print("In Dev Environment")
-    app_conf_file = "app_conf.yml"
-    log_conf_file = "log_conf.yml"
-
-with open(app_conf_file, 'r') as f:
+with open("app_conf.yml", 'r') as f:
     app_config = yaml.safe_load(f.read())
 
-with open(log_conf_file, 'r') as f:
+with open("log_conf.yml", 'r') as f:
     log_config = yaml.safe_load(f.read())
     logging.config.dictConfig(log_config)
 
 logger = logging.getLogger('basicLogger')
-
-logger.info("App Conf File: %s" % app_conf_file)
-logger.info("Log Conf File: %s" % log_conf_file)
 
 DB_ENGINE = create_engine(f"sqlite:///{path}")
 #DB_ENGINE = create_engine("sqlite:///%s" %app_config["datastore"]["filename"])
@@ -80,7 +68,7 @@ def populate_health():
     """ Periodically update health stats """
     logger.info('Period processing has been started')
     session = DB_SESSION()
-    current_timestamp = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%f")
+    #current_timestamp = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%f")
     results = session.query(Health).order_by(Health.last_updated.desc())
     url_receiver = "http://lab6a.eastus2.cloudapp.azure.com/receiver/health"
 
@@ -117,16 +105,9 @@ def init_scheduler():
     sched.start()
 
 app = connexion.FlaskApp(__name__, specification_dir='')
-if "TARGET_ENV" not in os.environ or os.environ["TARGET_ENV"] != "test":
-    CORS(app.app)
-    app.app.config['CORS_HEADERS'] = 'Content-Type'
-
-else:
-    CORS(app.app)
-    app.app.config['CORS_HEADERS'] = 'Content-Type'
-    
 app.add_api("openapi.yaml", base_path="/health", strict_validation=True, validate_responses=True)
-
+CORS(app.app)
+app.app.config['CORS_HEADERS'] = 'Content-Type'
 if __name__ == "__main__":
     init_scheduler()
     app.run(port=8100, use_reloader=False)
