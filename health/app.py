@@ -76,7 +76,7 @@ def populate_health():
 
     response_receiver = requests.get(url_receiver, headers=headers)
     
-    if response_receiver.status_code != 200:
+    if response_receiver.status_code == 200:
         receiver = "running" 
         logger.error(f"Status code received {response_receiver.status_code}")
     else:
@@ -110,5 +110,5 @@ CORS(app.app)
 app.app.config['CORS_HEADERS'] = 'Content-Type'
 if __name__ == "__main__":
     init_scheduler()
-    app.run(port=8100, use_reloader=False)
+    app.run(port=8120, use_reloader=False)
 
