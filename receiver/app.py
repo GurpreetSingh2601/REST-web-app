@@ -86,7 +86,8 @@ def reports_damaged_parts(body):
 
 def health_check():
     logger.info("Checking for health")
-    return NoContent, 200
+    dictionary = {"message" : "running"}
+    return dictionary, 200
     
 app = connexion.FlaskApp(__name__, specification_dir='')
 app.add_api('openapi.yaml', base_path="/receiver", strict_validation=True, validate_responses=True)
