@@ -30,7 +30,7 @@ def create_database(path):
     conn.commit()
     conn.close()
 
-path = '/data/health.sqlite'
+path = 'health.sqlite'
 isExist = os.path.exists(path)
 if isExist == True:
     print("Exists")
