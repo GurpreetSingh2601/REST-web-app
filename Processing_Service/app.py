@@ -120,7 +120,6 @@ def populate_stats():
         max_part_price = 0
         num_damaged_part = len(list_damaged_parts)
 
-    last_updated = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%f")
     for i in list_orders_received:
         logger.debug(f"new event with a trace id of {i['trace_id']}")
         if i["part_price"] > max_part_price:
