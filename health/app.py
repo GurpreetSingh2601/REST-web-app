@@ -77,10 +77,29 @@ def populate_health():
 
     headers = {"content-type": "application/json"}
 
-    response_receiver = requests.get(url_receiver, headers=headers)
-    response_storage = requests.get(url_storage, headers=headers)
-    response_processing = requests.get(url_processing, headers=headers)
-    response_audit = requests.get(url_audit, headers=headers)
+    try:
+        response_receiver = requests.get(url_receiver, headers=headers)
+    
+    except ConnectionRefusedError:
+        response_receiver.status_code = 404
+
+    try:
+        response_storage = requests.get(url_storage, headers=headers)
+    
+    except ConnectionRefusedError:
+        response_storage.status_code = 404
+    
+    try:
+        response_processing = requests.get(url_processing, headers=headers)
+
+    except ConnectionRefusedError:
+        response_processing.status_code = 404
+    
+    try:
+        response_audit = requests.get(url_audit, headers=headers)
+
+    except ConnectionRefusedError:
+        response_audit.status_code = 404
     
     if response_receiver.status_code == 200:
         receiver = "running" 
