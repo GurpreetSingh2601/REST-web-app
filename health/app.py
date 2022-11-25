@@ -79,27 +79,23 @@ def populate_health():
 
     try:
         response_receiver = requests.get(url_receiver, headers=headers)
-    
-    except :
-        response_receiver.status_code = 404
+    except:
+        receiver = "Down"
 
     try:
         response_storage = requests.get(url_storage, headers=headers)
-    
     except:
-        response_storage.status_code = 404
+        storage = "Down"
     
     try:
         response_processing = requests.get(url_processing, headers=headers)
-
     except:
-        response_processing.status_code = 404
+        processing = "Down"
     
     try:
         response_audit = requests.get(url_audit, headers=headers)
-
     except:
-        response_audit.status_code = 404
+        audit = "Down"
     
     if response_receiver.status_code == 200:
         receiver = "running" 
