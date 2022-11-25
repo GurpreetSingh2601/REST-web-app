@@ -106,9 +106,9 @@ app = connexion.FlaskApp(__name__, specification_dir='')
 CORS(app.app)
 app.app.config['CORS_HEADERS'] = 'Content-Type'
 
-app.add_api("openapi.yml")
+app.add_api("openapi.yml", base_path="/audit_log")
 if __name__ == "__main__":
-    app.run(port=8110)
+    app.run(port=8110, use_reloader=False)
 
 
 
