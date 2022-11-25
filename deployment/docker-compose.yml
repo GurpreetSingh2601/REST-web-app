@@ -34,7 +34,7 @@ services:
     ports:
     - "8080"
     networks:
-      - "api.network"
+    - "api.network"
     environment: 
     - TARGET_ENV=test
     volumes:
@@ -126,9 +126,9 @@ services:
       - "dashboard"
     # Connects the port 80 of the nginx container to localhost:80 or localhost
     ports:
-      - "80:80"
+    - "80:80"
     networks:
-      - "api.network"
+    - "api.network"
 
   db:
     image: mysql:5.7

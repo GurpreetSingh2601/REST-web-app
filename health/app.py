@@ -84,25 +84,25 @@ def populate_health():
     
     if response_receiver.status_code == 200:
         receiver = "running" 
-        logger.error(f"Status code received {response_receiver.status_code}")
+        logger.info(f"Status code received {response_receiver.status_code}")
     else:
         receiver = "Down"
     
     if response_storage.status_code == 200:
         storage = "running" 
-        logger.error(f"Status code received {response_storage.status_code}")
+        logger.info(f"Status code received {response_storage.status_code}")
     else:
         storage = "Down"
     
     if response_processing.status_code == 200:
         processing = "running" 
-        logger.error(f"Status code received {response_processing.status_code}")
+        logger.info(f"Status code received {response_processing.status_code}")
     else:
         processing = "Down"
     
     if response_audit.status_code == 200:
         audit = "running" 
-        logger.error(f"Status code received {response_audit.status_code}")
+        logger.info(f"Status code received {response_audit.status_code}")
     else:
         audit = "Down"
     
