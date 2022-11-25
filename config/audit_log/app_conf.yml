@@ -1,8 +1,8 @@
 version: 1
 orders/received:
-  url: http://localhost:8090/orders/received
+  url: http://lab6a.eastus2.cloudapp.azure.com/storage/orders/received
 parts/damaged:
-  url: http://localhost:8090/parts/damaged
+  url: http://lab6a.eastus2.cloudapp.azure.com/storage/parts/damaged
 
 events:
   hostname: lab6a.eastus2.cloudapp.azure.com
