@@ -62,26 +62,26 @@ DB_ENGINE = create_engine(f"sqlite:///{path}")
 #DB_ENGINE = create_engine("sqlite:///%s" %app_config["datastore"]["filename"])
 Base.metadata.bind = DB_ENGINE
 DB_SESSION = sessionmaker(bind=DB_ENGINE)
-session = DB_SESSION()
-results = session.query(Stats).order_by(Stats.last_updated.desc())
 
 def get_stats():
-    logger.info('Request has been started') 
+    logger.info('Request has been started')
+    session = DB_SESSION()
+    results = session.query(Stats).order_by(Stats.last_updated.desc())
     if not results:
         logger.error("Statistics does not exist")
         return 404
     
     #logger.debug(f"contents of python dictionary {results[-1].to_dict()}")
     logger.info("The request has been completed")
-    #session.close()
+    session.close()
     return results[0].to_dict(), 200
 
 def populate_stats():
     """ Periodically update stats """
     logger.info('Period processing has been started')
-    #session = DB_SESSION()
+    session = DB_SESSION()
     current_timestamp = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%f")
-    #results = session.query(Stats).order_by(Stats.last_updated.desc())
+    results = session.query(Stats).order_by(Stats.last_updated.desc())
     try:
         last_updated = str(results[0].last_updated)
         a,b = last_updated.split(" ")
@@ -141,7 +141,7 @@ def populate_stats():
     session.add(stats)
 
     session.commit()
-    #session.close()
+    session.close()
 
 def init_scheduler():
     sched = BackgroundScheduler(daemon=True)
