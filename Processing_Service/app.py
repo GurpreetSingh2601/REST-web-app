@@ -144,6 +144,11 @@ def populate_stats():
     session.commit()
     session.close()
 
+def health_check():
+    logger.info("Checking for health")
+    dictionary = {"message" : "running"}
+    return dictionary, 200
+
 def init_scheduler():
     sched = BackgroundScheduler(daemon=True)
     sched.add_job(populate_stats, 'interval', seconds=app_config['scheduler']['period_sec'])

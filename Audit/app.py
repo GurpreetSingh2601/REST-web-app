@@ -100,6 +100,12 @@ def get_damaged_parts_reading(index):
         logger.error("Could not find damaged part at index %d" % index)
         return { "message": "Not Found"}, 404
 
+
+def health_check():
+    logger.info("Checking for health")
+    dictionary = {"message" : "running"}
+    return dictionary, 200
+
 app = connexion.FlaskApp(__name__, specification_dir='')
 
 #if "TARGET_ENV" not in os.environ or os.environ["TARGET_ENV"] != "test":

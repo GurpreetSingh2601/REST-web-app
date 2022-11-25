@@ -71,10 +71,16 @@ def populate_health():
     #current_timestamp = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%f")
     results = session.query(Health).order_by(Health.last_updated.desc())
     url_receiver = "http://lab6a.eastus2.cloudapp.azure.com/receiver/health"
+    url_storage = "http://lab6a.eastus2.cloudapp.azure.com/storage/health"
+    url_processing = "http://lab6a.eastus2.cloudapp.azure.com/processing/health"
+    url_audit = "http://lab6a.eastus2.cloudapp.azure.com:8110/health"
 
     headers = {"content-type": "application/json"}
 
     response_receiver = requests.get(url_receiver, headers=headers)
+    response_storage = requests.get(url_storage, headers=headers)
+    response_processing = requests.get(url_processing, headers=headers)
+    response_audit = requests.get(url_audit, headers=headers)
     
     if response_receiver.status_code == 200:
         receiver = "running" 
@@ -82,10 +88,24 @@ def populate_health():
     else:
         receiver = "Down"
     
-    storage = "running"
-    processing = "running"
-    audit = "running"
-
+    if response_storage.status_code == 200:
+        storage = "running" 
+        logger.error(f"Status code received {response_storage.status_code}")
+    else:
+        storage = "Down"
+    
+    if response_processing.status_code == 200:
+        processing = "running" 
+        logger.error(f"Status code received {response_processing.status_code}")
+    else:
+        processing = "Down"
+    
+    if response_audit.status_code == 200:
+        audit = "running" 
+        logger.error(f"Status code received {response_audit.status_code}")
+    else:
+        audit = "Down"
+    
     last_updated = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%f")
     session = DB_SESSION()
     stats = Health(receiver,

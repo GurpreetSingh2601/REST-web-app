@@ -217,6 +217,11 @@ def process_messages():
         # Store the event2 (i.e., the payload) to the DB
         # Commit the new message as being read
         consumer.commit_offsets()
+    
+def health_check():
+    logger.info("Checking for health")
+    dictionary = {"message" : "running"}
+    return dictionary, 200
 
 app = connexion.FlaskApp(__name__, specification_dir='')
 app.add_api("openapi.yaml", base_path="/storage", strict_validation=True, validate_responses=True)
