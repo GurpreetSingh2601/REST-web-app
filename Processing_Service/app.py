@@ -120,6 +120,7 @@ def populate_stats():
         max_part_price = 0
         num_damaged_part = len(list_damaged_parts)
 
+
     for i in list_orders_received:
         logger.debug(f"new event with a trace id of {i['trace_id']}")
         if i["part_price"] > max_part_price:
@@ -149,13 +150,14 @@ def init_scheduler():
     sched.start()
 
 app = connexion.FlaskApp(__name__, specification_dir='')
-if "TARGET_ENV" not in os.environ or os.environ["TARGET_ENV"] != "test":
-    CORS(app.app)
-    app.app.config['CORS_HEADERS'] = 'Content-Type'
+# if "TARGET_ENV" not in os.environ or os.environ["TARGET_ENV"] != "test":
+#     CORS(app.app)
+#     app.app.config['CORS_HEADERS'] = 'Content-Type'
 
-else:
-    CORS(app.app)
-    app.app.config['CORS_HEADERS'] = 'Content-Type'
+# else:
+
+CORS(app.app)
+app.app.config['CORS_HEADERS'] = 'Content-Type'
 
 app.add_api("openapi.yaml", base_path="/processing", strict_validation=True, validate_responses=True)
 
