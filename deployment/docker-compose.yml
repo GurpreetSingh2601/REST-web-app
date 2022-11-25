@@ -94,9 +94,7 @@ services:
   audit_log:
     image: audit_log
     ports:
-    - "8110"
-    networks:
-      - "api.network"
+    - 8110:8110
     environment: 
     - TARGET_ENV=test
     volumes:
@@ -125,7 +123,6 @@ services:
       - "receiver"
       - "storage"
       - "processing"
-      - "audit_log"
       - "dashboard"
     # Connects the port 80 of the nginx container to localhost:80 or localhost
     ports:
