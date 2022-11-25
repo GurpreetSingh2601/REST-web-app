@@ -65,7 +65,7 @@ DB_SESSION = sessionmaker(bind=DB_ENGINE)
 session = DB_SESSION()
 results = session.query(Stats).order_by(Stats.last_updated.desc())
 session.close()
-def get_stats(results):
+def get_stats():
     logger.info('Request has been started')     
     if not results:
         logger.error("Statistics does not exist")
@@ -75,7 +75,7 @@ def get_stats(results):
     
     return results[0].to_dict(), 200
 
-def populate_stats(results):
+def populate_stats():
     """ Periodically update stats """
     logger.info('Period processing has been started')
     #session = DB_SESSION()
