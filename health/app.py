@@ -73,7 +73,7 @@ def populate_health():
     url_receiver = "http://lab6a.eastus2.cloudapp.azure.com/receiver/health"
     url_storage = "http://lab6a.eastus2.cloudapp.azure.com/storage/health"
     url_processing = "http://lab6a.eastus2.cloudapp.azure.com/processing/health"
-    url_audit = "http://lab6a.eastus2.cloudapp.azure.com:8110/health"
+    url_audit = "http://lab6a.eastus2.cloudapp.azure.com:8110/audit_log/health"
 
     headers = {"content-type": "application/json"}
 
