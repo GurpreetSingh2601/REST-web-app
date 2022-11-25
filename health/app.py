@@ -97,28 +97,40 @@ def populate_health():
     except:
         audit = "Down"
     
-    if response_receiver.status_code == 200:
-        receiver = "running" 
-        logger.info(f"Status code received {response_receiver.status_code}")
-    else:
+    try:
+        if response_receiver.status_code == 200:
+            receiver = "running" 
+            logger.info(f"Status code received {response_receiver.status_code}")
+        else:
+            receiver = "Down"
+    except:
         receiver = "Down"
-    
-    if response_storage.status_code == 200:
-        storage = "running" 
-        logger.info(f"Status code received {response_storage.status_code}")
-    else:
+
+    try:
+        if response_storage.status_code == 200:
+            storage = "running" 
+            logger.info(f"Status code received {response_storage.status_code}")
+        else:
+            storage = "Down"
+    except:
         storage = "Down"
     
-    if response_processing.status_code == 200:
-        processing = "running" 
-        logger.info(f"Status code received {response_processing.status_code}")
-    else:
+    try:
+        if response_processing.status_code == 200:
+            processing = "running" 
+            logger.info(f"Status code received {response_processing.status_code}")
+        else:
+            processing = "Down"
+    except:
         processing = "Down"
     
-    if response_audit.status_code == 200:
-        audit = "running" 
-        logger.info(f"Status code received {response_audit.status_code}")
-    else:
+    try:
+        if response_audit.status_code == 200:
+            audit = "running" 
+            logger.info(f"Status code received {response_audit.status_code}")
+        else:
+            audit = "Down"
+    except:
         audit = "Down"
     
     last_updated = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%f")
