@@ -69,10 +69,10 @@ def populate_health():
     logger.info('Period processing has been started')
     session = DB_SESSION()
     #current_timestamp = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%f")
-    url_receiver = "http://lab6a.eastus2.cloudapp.azure.com/receiver/health"
-    url_storage = "http://lab6a.eastus2.cloudapp.azure.com/storage/health"
-    url_processing = "http://lab6a.eastus2.cloudapp.azure.com/processing/health"
-    url_audit = "http://lab6a.eastus2.cloudapp.azure.com:8110/audit_log/health"
+    url_receiver = app_config["receiver"]["url"]
+    url_storage = app_config["storage"]["url"]
+    url_processing = app_config["processing"]["url"]
+    url_audit = app_config["audit_log"]["url"]
 
     headers = {"content-type": "application/json"}
     

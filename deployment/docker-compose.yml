@@ -125,6 +125,7 @@ services:
       - "receiver"
       - "storage"
       - "processing"
+      - "audit_log"
       - "dashboard"
     # Connects the port 80 of the nginx container to localhost:80 or localhost
     ports:
