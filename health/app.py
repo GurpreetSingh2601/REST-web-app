@@ -77,7 +77,7 @@ def populate_health():
     headers = {"content-type": "application/json"}
     
     try:
-        response_receiver = requests.get(url_receiver, headers=headers)
+        response_receiver = requests.get(url_receiver, headers=headers, timeout=5)
         if response_receiver.status_code == 200:
             receiver = "running" 
             logger.info(f"Status code received {response_receiver.status_code}")
@@ -87,7 +87,7 @@ def populate_health():
         receiver = "Down"
 
     try:
-        response_storage = requests.get(url_storage, headers=headers)
+        response_storage = requests.get(url_storage, headers=headers, timeout=5)
         if response_storage.status_code == 200:
             storage = "running" 
             logger.info(f"Status code received {response_storage.status_code}")
@@ -97,7 +97,7 @@ def populate_health():
         storage = "Down"
     
     try:
-        response_processing = requests.get(url_processing, headers=headers)
+        response_processing = requests.get(url_processing, headers=headers, timeout=5)
         if response_processing.status_code == 200:
             processing = "running" 
             logger.info(f"Status code received {response_processing.status_code}")
@@ -107,7 +107,7 @@ def populate_health():
         processing = "Down"
     
     try:
-        response_audit = requests.get(url_audit, headers=headers)
+        response_audit = requests.get(url_audit, headers=headers, timeout=5)
         if response_audit.status_code == 200:
             audit = "running" 
             logger.info(f"Status code received {response_audit.status_code}")
