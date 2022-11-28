@@ -102,6 +102,8 @@ services:
     - /home/azureuser/lab6a/lab7_3855/logs:/logs
     depends_on:
     - "kafka"
+    networks:
+      - "api.network"
   
   dashboard:
     image: dashboard
